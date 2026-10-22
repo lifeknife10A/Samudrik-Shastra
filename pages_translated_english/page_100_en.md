@@ -1,0 +1,8 @@
+( • 166 :)
+
+6 - In the hands of certain individuals, the Sun Line originates from the rascette (bracelet line) or very close to it, and extends upwards. In this condition, it is essential to observe whether the Sun Line proceeds in close proximity and parallel to the Fate Line. If the Sun Line is close to the Fate Line and advances parallel to it, this constitutes a most auspicious sign. An individual possessing such a line achieves success in whatever endeavor they undertake. Their colleagues love them, superiors praise them, and they attain honor in society. (Figure 2, Dotted Line 6)
+
+7 - In the hands of certain individuals, the Sun Line originates from the Mount of the Moon and proceeds toward the ring finger. There is an ancient enmity between the Sun and the Moon, and the nature of the Moon-god is perpetually fickle. Consequently, due to the influence of the Moon, the advancement of an individual with this type of line remains doubtful. Although such persons desire to achieve fame and wealth through progress, they are unable to remain steadfast due to the fickleness of their thoughts. They make efforts as well, but because their resolve is weak, they fail to attain success. (Figure 7, Dotted Line 7)
+
+The view of Western scholars is: -
+"Success line, which is often called the line of Apollo, or sun line has no fixed starting point, nor it is to be found on all hands; whenever it exists, it will run to-wards the mount of Apollo. It may rise from various points of

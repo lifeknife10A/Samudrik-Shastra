@@ -1,0 +1,9 @@
+( 173 )
+
+The Fate Line is known by various names, such as the Line of Wealth, the Line of Initiation, the Saturnine Line, and the Ascending Line. Through this line, information is obtained regarding all those upheavals, advancements, declines, obstructions, comforts, losses, and gains that manifest in a person's life, guiding them either toward progress or ruin.
+
+It has been observed that the Fate Line does not always remain in a static state. It continuously points toward the future, and as an individual advances through life, the Fate Line on their palm accordingly ebbs and flows. Indeed, it is the duty of the individual to keep a close watch on the Fate Line and conduct themselves in accordance with its indications. That is to say, when the Fate Line points toward a condition of happiness and prosperity, it is proper for the person to remain enthusiastic and exert sustained effort (purushartha); and when the indication of this line points toward decline, it is fitting for the individual to remain vigilant and take a complete interest in every endeavor, so that no action is committed that might become the cause of their downfall.
+
+Another group of astrologers asserts that this line is formed solely by human action (*karma*). The person who exerts effort for their own upliftment finds their Fate Line growing prominent and radiant, whereas the person who begins to slide toward decline finds their Fate Line becoming faint, accompanied by the appearance of numerous flaws.
+
+From a logical standpoint, the second viewpoint appears superior. For every person knows that human actions alone manifest the success or decline of their life. However, the first viewpoint is more impactful for those who

@@ -1,0 +1,9 @@
+( 161 )
+
+Energy is required in every sphere of life. A living being can apply this inherent energy wherever they choose—whether they exhaust it entirely in mere imagination, or translate it into action and put it to good use.
+
+It has already been stated that there are six types of hands. The specific formation of this line produces a different effect on each type of hand. In brief, the outcomes are as follows:
+
+1. If this line is found on a Philosophic hand, the result of this formation is that the individual, through continuous imagining, arrives at a concept that is in itself an enigma. Furthermore, they strive to realize this fantasy. The consequence is that when they fail to accomplish it, they become distressed, and ultimately grow so despondent that they lose all attachment to life itself; overwhelmed by the agony of despair, they contemplate ending their life by committing suicide.
+
+2. If an individual possesses a hand of the Conic or Psychic category, and the Head Line curves downward attempting to reach the Mount of Moon, such a person becomes purely a creature of imagination. Although they soar to great heights in thought, nothing is ever practically achieved. They contemplate excessively, yet they are neither able to execute those thoughts nor can they even conceive of a practical way to fulfill them. They waste their entire energy in rumination. Moreover, if the Head Line of such an individual curves downward all the way to touch the Rascette (Manibandha or wrist lines), the person becomes 'insane'. Their mind collapses due to over-imagination and excessive brooding—

@@ -1,0 +1,9 @@
+(184)
+
+remains right where it is. For this reason, a break in the Fate Line is considered inauspicious. (Figure 4, Line 2-1, the middle point 1)
+
+If an island mark is present on the Fate Line of an individual, and the Heart Line is stronger than the Head Line, such a person becomes so entangled in love that they are forced to face social disgrace on account of this attachment. They must endure humiliation, and it is even possible that due to this romantic bond, they may experience profound sorrow and attempt suicide. (Figure 5, Location 1)
+
+If the island mark on the Fate Line appears on the hand of a person belonging to the utilitarian (practical) type, the significance of this island becomes entirely nullified. The 'utilitarian hand' itself is considered to possess such lofty characteristics that the malefic nature of an island situated on the Fate Line is rendered completely ineffective in such a hand. Individuals with utilitarian hands are people of principle. Their resolves are firm, and their inclinations are always noble. In such individuals, who are the architects of their own destiny, the island mark on the Fate Line is either absent altogether, or even if it is found to be present, its significance is destroyed.
+
+In the hands of married individuals, if the island mark appears after their marriage has taken place, it clearly indicates that the individual’s love will be enduring. If the Heart Line of such a person is exceptionally clear and well-defined, it must be concluded that their marital love is of the highest order. However, if by misfortune a star or a grill (lattice) mark happens to appear on the hand, it should be understood as yielding destructive and adverse results. (Figure 5, Location 2 and Location 5)

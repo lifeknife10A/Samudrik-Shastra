@@ -1,0 +1,9 @@
+( 183 )
+
+The various forms of the Fate Line have been described above. However, we shall now provide detailed information regarding how its combination with various other lines alters its effects. It has already been stated that every line on the hand inevitably exerts its influence. Therefore, upon the emergence of a line, it is essential to ascertain the effect that the contact of other lines has upon it. It has already been established that one line invariably exerts a certain degree of influence upon another.
+
+The influence of the Fate Line undeniably extends over the social, practical, and financial spheres of an individual’s life. This line originates from the Rascette (Manibandha), near the Life Line, from the Mount of Mars, or the Mount of Moon, and ascending from the center of the palm, terminates beneath the middle finger at the Mount of Saturn. A straight, clear, and deep Fate Line is indicative of good fortune, whereas a faint, indistinct, and dull Fate Line signifies a sorrowful life.
+
+It is the opinion of some Eastern astrologers that the presence of an island or a star sign (shula or nakshatra) upon the Fate Line is inauspicious. However, others maintain that these two signs are not as inauspicious as the breaking of the line itself. We certainly agree that while these two signs act as obstacles to human progress, they are not as fatal as a break in the line.
+
+The individual whose Fate Line is broken finds their progress cast into doubt, for progress does not occur instantaneously. It begins from a humble level, and just when the apex or time of advancement arrives, a halt occurs. In such a state, progress comes to a standstill.

@@ -1,0 +1,1057 @@
+{
+  "fate_line": {
+    "1": [
+      {
+        "rule_id": "rule_79_0",
+        "condition": "the Fate Line originates from the middle of the wrist line and extends upward to the Mount of Saturn",
+        "meaning": "the book says that such an individual is fortunate, overcomes all obstacles, and attains success in life",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_81_1",
+        "condition": "the Fate Line starts from or near the wrist bracelet in a clear, deep, and fully distinct manner",
+        "meaning": "the book says that such an individual is fortunate and achieves success in life, overcoming all obstacles in their path",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "2": [
+      {
+        "rule_id": "rule_83_1",
+        "condition": "the Fate Line extends even beyond the base of the middle finger (Saturn)",
+        "meaning": "the book says that such a person invariably goes to prison and will be debauched, being sent to jail on charges of adultery",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_83_2",
+        "condition": "the Fate Line extends further downward, cutting across the Rascette (bracelet lines) of the wrist",
+        "meaning": "the book says that such a person is considered inauspicious and may face difficulties in life, with their advancement coming to a standstill due to domestic complications",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 67
+      },
+      {
+        "rule_id": "rule_83_3",
+        "condition": "the Fate Line is unclear, dull, and indistinct",
+        "meaning": "the book says that such a person is devoid of vigor, vitality, and strength. His life is spent enduring hard times",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 90
+      },
+      {
+        "rule_id": "rule_84_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "invented words: causing, come, early, preventing",
+        "kept_percent": 0
+      }
+    ],
+    "3": [
+      {
+        "rule_id": "rule_83_4",
+        "condition": "the Fate Line originates from the region of the Life Line near the Rascette and proceeds forward in a straight, deep, and clear manner while touching the Life Line",
+        "meaning": "the book says that such a person elevates his destiny solely through his own hard work and the application of his intellect. His life and his destiny become integrated, and all his endeavors lead to his prosperity",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 82
+      }
+    ],
+    "4": [
+      {
+        "rule_id": "rule_86_0",
+        "condition": "the Fate Line is clear, deep, and distinct, originating from the Mount of Moon and proceeding toward the Mount of Saturn",
+        "meaning": "the book says that such individuals strive to progress but their thoughts lack stability, and their psychological state fluctuates like the phases of the moon, leading to a volatile nature and failure to achieve true success",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 84
+      },
+      {
+        "rule_id": "rule_88_0",
+        "condition": "the Fate Line has a break",
+        "meaning": "the book says that such a person is considered inauspicious, as the break indicates instability and failure to achieve true success",
+        "status": "from_passage",
+        "reason": "",
+        "kept_percent": 50
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_88_0",
+        "condition": "the Fate Line has a break",
+        "meaning": "the book says that such a person is considered inauspicious, as the break indicates instability and failure to achieve true success",
+        "status": "from_passage",
+        "reason": "",
+        "kept_percent": 50
+      },
+      {
+        "rule_id": "rule_90_0",
+        "condition": "the Fate Line splits into a snake-tongue shape (forked) at its point of origin",
+        "meaning": "the book says that such a person has an unstable mind and their consciousness finds no peace, leading them to cause financial losses to their loved ones",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 62
+      }
+    ],
+    "7": [
+      {
+        "rule_id": "rule_90_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 40% of the prediction words",
+        "kept_percent": 40
+      },
+      {
+        "rule_id": "rule_95_0",
+        "condition": "the Fate Line becomes indistinct at the point of the break and remains faint and unclear when it restarts",
+        "meaning": "the book says that such a person faces obstacles in progress and fails to attain their objective even after overcoming hurdles",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 89
+      }
+    ],
+    "8": [
+      {
+        "rule_id": "rule_92_0",
+        "condition": "A branch originates from the Fate Line and merges into the Mount of Saturn",
+        "meaning": "The book says that such a person will attain all-encompassing accomplishments, destroy obstacles, rise in prosperity, and have success subservient to them.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_92_1",
+        "condition": "the Fate Line itself becomes remarkably clear as it approaches the Mount of Saturn",
+        "meaning": "the book says that such an individual possesses the capability to fulfill every desire of their heart, and all obstacles in their path will be destroyed, allowing them to rise in prosperity",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_92_2",
+        "condition": "a branch emerging from the Fate Line terminates and merges within the Mount of Sun",
+        "meaning": "the book says that such an individual attains fame and renown, their name remains immortal, and their reputation grows exponentially due to public service. They are radiant like the sun and shine brightly as a successful artist, poet, leader, or actor.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ]
+  },
+  "head_line": {
+    "1": [
+      {
+        "rule_id": "rule_54_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "condition has no verb",
+        "kept_percent": 0
+      }
+    ],
+    "2": [
+      {
+        "rule_id": "rule_54_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 5% of the passage sentence words",
+        "kept_percent": 5
+      },
+      {
+        "rule_id": "rule_54_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 19% of the passage sentence words",
+        "kept_percent": 19
+      }
+    ],
+    "3": [
+      {
+        "rule_id": "rule_57_0",
+        "condition": "the Head Line is completely detached from the Life Line",
+        "meaning": "the book says that such a person is inclined toward carelessness and remains unconcerned about crucial tasks, their life passes in nonchalance, and they feel no anxiety regarding any undertaking",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 89
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_61_6",
+        "condition": "the line is deep in appearance",
+        "meaning": "the book says that such a person is an ardent lover of nature, fond of a tranquil environment, and prefers to spend time in natural settings like gardens, riverbanks, seashores, and mountains",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 75
+      },
+      {
+        "rule_id": "rule_61_7",
+        "condition": "the line is deep in appearance and remains uniform throughout",
+        "meaning": "the book says that such an individual is an ardent lover of nature, fond of tranquil environments, and prefers to spend time in natural settings like gardens, riverbanks, seashores, and mountains",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 75
+      },
+      {
+        "rule_id": "rule_61_8",
+        "condition": "the line is straight from the beginning to the end",
+        "meaning": "the book says that such a person is an ardent lover of nature, prefers tranquil environments, and is deeply absorbed in natural beauty",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 75
+      }
+    ],
+    "6": [
+      {
+        "rule_id": "rule_61_12",
+        "condition": "the line bends downward at its termination",
+        "meaning": "the book says that such an individual is contemplative, visionary, and introspective. He is engrossed in thought and deliberates thoroughly upon causes and consequences of even trivial matters",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "7": [
+      {
+        "rule_id": "rule_66_0",
+        "condition": "The Head Line originates from its standard position, touches the Life Line, extends straight towards the Mount of Moon, and assumes a forked shape resembling a serpent's tongue near the Mount of Moon",
+        "meaning": "The book says that such a person has a balanced mental faculty and can devise means to accomplish whatever they contemplate, striving to fulfill it promptly. They also possess a special affinity towards nature and maintain a calm disposition.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_66_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "condition has no verb",
+        "kept_percent": 0
+      }
+    ],
+    "8": [
+      {
+        "rule_id": "rule_68_0",
+        "condition": "the Head Line divides into two branches, one of which proceeds toward the Mount of Mercury, and is intersected by other minor lines originating from the Mount of Mercury",
+        "meaning": "the book says that an individual possessing such characteristics remains lacking in moral purity, becomes corrupt, and is fixated on others' wealth, acting dishonestly and being cunning",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 92
+      }
+    ],
+    "9": [
+      {
+        "rule_id": "rule_68_1",
+        "condition": "the fork-tongued branches of the Head Line have one extending downward toward the Mount of Moon and the other upward toward the Mount of Mercury",
+        "meaning": "the book says that such an individual is a deep thinker with formidable intellectual power, capable of transcending ordinary human imagination",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "10": [
+      {
+        "rule_id": "rule_69_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 47% of the prediction words",
+        "kept_percent": 47
+      }
+    ],
+    "11": [
+      {
+        "rule_id": "rule_70_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 44% of the passage sentence words",
+        "kept_percent": 44
+      },
+      {
+        "rule_id": "rule_70_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 12% of the passage sentence words",
+        "kept_percent": 12
+      },
+      {
+        "rule_id": "rule_70_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "invented words: brings, considered, faces, negative",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_70_3",
+        "condition": "the Head Line rises upward and extends toward the Mount of Mercury",
+        "meaning": "the book says that such a person is sharp-tempered by nature, stubborn, difficult to spend money, and constantly hoards wealth. They embrace vices and lack the capacity to appreciate virtues",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_71_0",
+        "condition": "the Head Line is inclined towards the little finger",
+        "meaning": "the book says that such a person is fortunate and desires a life filled with luxuries, pleasures, and joy, and after attaining them, lives a life of ease and contentment",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_71_1",
+        "condition": "the Head Line is inclined towards the little finger, and other small lines originating from the Mount of Jupiter touch the Head Line in the form of branches",
+        "meaning": "the book says that such a person is fortunate and desires a life filled with luxuries, pleasures, and joy, and after attaining them, lives a life of ease and contentment",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "12": [
+      {
+        "rule_id": "rule_72_2",
+        "condition": "the Head Line is cut in the zone of Saturn",
+        "meaning": "the book says that such a person attains wealth unexpectedly, either by receiving it as a gift or from a close relative who bestows wealth upon them",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 80
+      },
+      {
+        "rule_id": "rule_73_0",
+        "condition": "the Head Line curves towards the Mount of Sun",
+        "meaning": "the book says that such an individual is an artist whose livelihood depends solely upon arts and crafts and skilled industries, and they are successful in the field of progress",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_73_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_74_0",
+        "condition": "having two Head Lines",
+        "meaning": "the book says that such an individual is endowed with extraordinary abilities and will make remarkable discoveries using their intellect, with their approach being highly advanced and balanced, leading to certain success",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ]
+  },
+  "health_line": {
+    "1": [
+      {
+        "rule_id": "rule_35_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the passage sentence words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_35_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the passage sentence words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_35_6",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 25% of the prediction words",
+        "kept_percent": 25
+      },
+      {
+        "rule_id": "rule_35_7",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 23% of the passage sentence words",
+        "kept_percent": 23
+      }
+    ],
+    "2": [
+      {
+        "rule_id": "rule_36_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "adds 'disease', which the rule does not say",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_36_3",
+        "condition": "the Health Line originates from the bracelets (Rascette lines) or just above them and merges with the Heart Line",
+        "meaning": "the book says that such an individual inevitably becomes a victim of heart diseases and suffers from palpitations",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_36_4",
+        "condition": "the Health Line merges with the Heart Line",
+        "meaning": "the book says that such an individual inevitably becomes a victim of heart diseases and suffers from palpitations",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_36_5",
+        "condition": "the Health Line originates from the termination point of the Life Line and extends upward",
+        "meaning": "the book says that such an individual suffers from kidney disease",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_36_6",
+        "condition": "the Health Line is broken at position 2",
+        "meaning": "the book says that such an individual's digestive power becomes weak, and due to disorders developing in the lungs, they fall prey to tuberculosis or asthma",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "3": [
+      {
+        "rule_id": "rule_37_0",
+        "condition": "the Health Line contains island marks at various places",
+        "meaning": "the book says that such a person is invariably plagued by throat ailments and remains constantly surrounded by diseases of the throat",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_37_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "adds 'kidney', which the rule does not say",
+        "kept_percent": 0
+      }
+    ],
+    "4": [
+      {
+        "rule_id": "rule_38_0",
+        "condition": "the Health Line is straight, long, and clear",
+        "meaning": "the book says that such a person will have auspicious results and their lifespan will also be long",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_38_1",
+        "condition": "another line runs parallel to the Health Line in a similar manner",
+        "meaning": "the book says that this line nullifies any defects or flaws within the Health Line and yields auspicious results",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_38_2",
+        "condition": "the Health Line is straight, long, and clear",
+        "meaning": "the book says that such a person experiences auspicious results and the presence of the Subsidiary Health Line can nullify any flaws in the Health Line",
+        "status": "from_passage",
+        "reason": "",
+        "kept_percent": 50
+      },
+      {
+        "rule_id": "rule_38_4",
+        "condition": "the Health Line crosses directly through the broken area of the Life Line",
+        "meaning": "the book says that such an individual is destined for death under these conditions",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 80
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_39_1",
+        "condition": "the Health Line forms an island mark near the Head Line",
+        "meaning": "the book says that this indicates a strong astrological combination for contracting Rajayakshma",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 83
+      },
+      {
+        "rule_id": "rule_39_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 9% of the passage sentence words",
+        "kept_percent": 9
+      }
+    ]
+  },
+  "heart_line": {
+    "1": [
+      {
+        "rule_id": "rule_41_4",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_41_5",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_42_1",
+        "condition": "the Heart Line originates from the Mount of Jupiter and terminates between the Mount of Mars and the Mount of Mercury",
+        "meaning": "the book says that such individuals are mostly observed to be unsuccessful in their romantic lives and aspirations, eager in pursuit of love, yet their love is not devoid of deceit",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_44_2",
+        "condition": "the Heart Line originates from the Mount of Jupiter and terminates between the Mount of Mars and the Mount of Mercury",
+        "meaning": "the book says that such individuals are mostly observed to be unsuccessful in their romantic lives and aspirations, and their love is not devoid of deceit",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_44_4",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 17% of the prediction words",
+        "kept_percent": 17
+      },
+      {
+        "rule_id": "rule_44_5",
+        "condition": "the Heart Line originates from the Mount of Saturn and terminates in the region between Mercury and Mars",
+        "meaning": "the book says that such individuals are highly emotional and infatuated with love, yet their love is not devoid of deceit, and they have never succeeded in their love affairs",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_44_6",
+        "condition": "the Heart Line originates from the Mount of Saturn and terminates in the region between Mercury and Mars",
+        "meaning": "the book says that such individuals become almost obsessed when they tie the knot of love with someone",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 89
+      },
+      {
+        "rule_id": "rule_44_7",
+        "condition": "The Heart Line originates from the Mount of Saturn and terminates in the region between Mercury and Mars",
+        "meaning": "The book says that such a person constantly contemplates only their beloved and is eager in pursuit of love, yet their love is not devoid of deceit.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 80
+      },
+      {
+        "rule_id": "rule_44_8",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_44_9",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 20% of the prediction words",
+        "kept_percent": 20
+      },
+      {
+        "rule_id": "rule_44_10",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 18% of the prediction words",
+        "kept_percent": 18
+      },
+      {
+        "rule_id": "rule_44_11",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 11% of the prediction words",
+        "kept_percent": 11
+      }
+    ],
+    "2": [
+      {
+        "rule_id": "rule_43_0",
+        "condition": "the Heart Line originates from the Mount of Saturn and terminates in the space between Mercury and Mars",
+        "meaning": "the book says that such an individual prioritizes self-interest in romantic relationships and looks at their partner's wealth rather than her heart",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 53
+      },
+      {
+        "rule_id": "rule_46_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 27% of the prediction words",
+        "kept_percent": 27
+      },
+      {
+        "rule_id": "rule_46_4",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 8% of the prediction words",
+        "kept_percent": 8
+      }
+    ],
+    "3": [],
+    "4": [
+      {
+        "rule_id": "rule_48_3",
+        "condition": "two Heart Lines are present alongside a long and downward-curving Head Line",
+        "meaning": "the book says that such a person rises far above ordinary humanity and is deeply committed to benevolence and public service",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 50
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_49_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 45% of the prediction words",
+        "kept_percent": 45
+      },
+      {
+        "rule_id": "rule_50_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 33% of the prediction words",
+        "kept_percent": 33
+      },
+      {
+        "rule_id": "rule_50_1",
+        "condition": "the Heart Line breaks beneath the fourth finger",
+        "meaning": "the book says that such an individual creates obstacles in their own romantic pursuits solely through their own foolishness, and their love life becomes despondent with numerous impediments",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_50_4",
+        "condition": "the Heart Line breaks beneath the Ring Finger, near the Mount of Sun",
+        "meaning": "the book says that the individual's love life becomes despondent and fraught with numerous impediments due to their own follies, and they create obstacles in their own romantic pursuits",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_51_0",
+        "condition": "the Heart Line breaks beneath the Mount of Saturn",
+        "meaning": "the book says that the two individuals experience profound love for one another and are ready to sacrifice everything for marriage, but due to Saturn's influence, they are separated and end up marrying different partners",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "6": [
+      {
+        "rule_id": "rule_52_0",
+        "condition": "Small, clear lines rise upward near the Heart Line",
+        "meaning": "The book says that these lines indicate the number of times the individual has plunged into and emerged from romantic liaisons and affairs of the heart. Lines that intersect the Heart Line suggest love affairs were felicitous and joyful, while those that do not intersect reveal romantic endeavors were fraught with sorrow.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 91
+      },
+      {
+        "rule_id": "rule_52_1",
+        "condition": "Lines intersect the Heart Line",
+        "meaning": "The book says that such a person's love affairs were felicitous and joyful, as opposed to those whose lines do not intersect the Heart Line, which indicate sorrowful romantic experiences.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 75
+      },
+      {
+        "rule_id": "rule_52_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "invented words: difficulty, life, marked, troubled",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_52_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "condition has no verb",
+        "kept_percent": 0
+      }
+    ]
+  },
+  "life_line": {
+    "1": [],
+    "2": [
+      {
+        "rule_id": "rule_316_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "invented words: despite, expected, strong, younger",
+        "kept_percent": 0
+      }
+    ],
+    "3": [
+      {
+        "rule_id": "rule_318_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_318_3",
+        "condition": "the Life Line begins from below the index finger and crosses the Mount of Jupiter",
+        "meaning": "the book says that such an individual will undoubtedly become a high-ranking official, famous, and learned",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "4": [
+      {
+        "rule_id": "rule_319_4",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "condition has no verb",
+        "kept_percent": 0
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_319_0",
+        "condition": "the Life Line and the Head Line are joined at their origin",
+        "meaning": "the book says that such an individual remains firm in their resolve, is careful and vigilant in their work, and grasps matters easily, yet possesses a high degree of self-confidence",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_319_2",
+        "condition": "the Life Line and Head Line originate separately from the very beginning",
+        "meaning": "the book says that such an individual tends to be careless, shows no interest in academic pursuits, and remains absorbed in their own world",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_319_3",
+        "condition": "the Life Line and Head Line have a uniform distance",
+        "meaning": "the book says that such an individual is farsighted, ambitious for fame, courageous, and enthusiastic",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_320_0",
+        "condition": "branches originate from the middle of the life line and extend downwards",
+        "meaning": "the book says that such an individual is of an aggressive temperament, fond of travel, cruel in nature, timid at heart, prone to laziness, frequently indulges in intoxicating substances, and habitually avoids hard work",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_320_1",
+        "condition": "branches extend toward the Mount of Jupiter",
+        "meaning": "the book says that the individual attains a high position in society, earns fame, and experiences an increase in their authority",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "6": [
+      {
+        "rule_id": "rule_323_1",
+        "condition": "the Life Line is crossed by a branch from the Mars Line that extends towards the bracelet line",
+        "meaning": "the book says that this indicates the possibility of premature death and that the individual is shortsighted and impulsive, often inviting misfortune without cause",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ]
+  },
+  "marriage_line": {
+    "2": [],
+    "3": [
+      {
+        "rule_id": "rule_113_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "self-harm wording in the cleaned text",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_113_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "self-harm wording in the cleaned text",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_113_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "self-harm wording in the cleaned text",
+        "kept_percent": 0
+      }
+    ],
+    "4": [
+      {
+        "rule_id": "rule_113_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "self-harm wording in the cleaned text",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_113_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "self-harm wording in the cleaned text",
+        "kept_percent": 0
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_111_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "adds 'widowhood', which the rule does not say",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_111_1",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "adds 'widowhood', which the rule does not say",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_111_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 27% of the passage sentence words",
+        "kept_percent": 27
+      },
+      {
+        "rule_id": "rule_111_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "adds 'widowhood', which the rule does not say",
+        "kept_percent": 0
+      }
+    ],
+    "6": [
+      {
+        "rule_id": "rule_114_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 40% of the prediction words",
+        "kept_percent": 40
+      }
+    ]
+  },
+  "sun_line": {
+    "1": [
+      {
+        "rule_id": "rule_94_0",
+        "condition": "The Sun Line originates from the Head Line",
+        "meaning": "The book says that such a person is exceptionally sharp in mental faculties and attains renown through personal competence and intellectual power.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 92
+      },
+      {
+        "rule_id": "rule_94_1",
+        "condition": "the Sun Line originates from the Heart Line",
+        "meaning": "the book says that such a person is incapable of deceit, fraud, and betrayal, and has peaceful final days with no anxieties in old age",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 69
+      },
+      {
+        "rule_id": "rule_98_0",
+        "condition": "The Sun Line originates from the Life Line",
+        "meaning": "The book says that such individuals are worshippers of art, possess a special interest in natural beauty, and become successful artists through their own labor and dedication.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 60
+      },
+      {
+        "rule_id": "rule_98_1",
+        "condition": "The Sun Line originates directly from the Fate Line",
+        "meaning": "The book says that such a person achieves progressive advancement throughout their lives, as the Sun Line suppresses the flaws of the Fate Line and brings its virtues to light, granting them the strength to walk the path of success.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 70
+      }
+    ],
+    "2": [
+      {
+        "rule_id": "rule_94_2",
+        "condition": "The Sun Line originates from the central region of the palm, namely the Mount of Mars",
+        "meaning": "The book says that such an individual succeeds in advancing upon the path of progress and overcomes obstacles regardless of their number.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "3": [
+      {
+        "rule_id": "rule_102_0",
+        "condition": "scattered minor lines run alongside the Sun Line, eventually merging into it",
+        "meaning": "the book says that the planetary mount from which these lines originate imparts its corresponding influence upon the Sun Line, with the result that the deity of that particular mount assists in the individual's advancement",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_102_1",
+        "condition": "some of these lines intersect the Sun Line at various points",
+        "meaning": "the book says that the individual’s progress is hindered by the influence of the planets from which those lines originate, and diverse obstacles begin to impede their advancement",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      },
+      {
+        "rule_id": "rule_103_0",
+        "condition": "A branch of the Sun Line extends and merges into the Mount of the Sun",
+        "meaning": "The book says that such a person attains fame and glory, becoming a political leader, a religious preacher, an orator, or someone deeply interested in public service, achieving success specifically within public life.",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 95
+      },
+      {
+        "rule_id": "rule_103_1",
+        "condition": "a branch originating from the Sun Line goes and merges into the domain of the divine preceptor, namely the Mount of Jupiter",
+        "meaning": "the book says that such a person secures a position within the ruling class, becomes the recipient of the grace and affection of their subjects, and progresses by attaining high authority in governance",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 60
+      },
+      {
+        "rule_id": "rule_104_0",
+        "condition": "a branch originating from the Sun Line merges into the Mount of Saturn",
+        "meaning": "the book says that such a person attains the pinnacle of success and becomes happy and prosperous, with their renown and glory further extended by the combined influence of Saturn and the Sun",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 50
+      }
+    ],
+    "4": [
+      {
+        "rule_id": "rule_102_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "invented words: cause, difficult, making, prevent, scattered",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_104_3",
+        "condition": "the Sun Line is broken at any point",
+        "meaning": "the book says that this indicates the individual's disgrace and infamy, halts progress, leads to scandal, and sets them on a path of decline",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 52
+      },
+      {
+        "rule_id": "rule_105_0",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      }
+    ],
+    "5": [
+      {
+        "rule_id": "rule_105_1",
+        "condition": "the Sun Line originates from the Mount of Mars and becomes faint and disappears before reaching the Mount of the Sun",
+        "meaning": "the book says that such a person faces various obstacles, adversities, and disappointments in their life, and the future of their progress remains shrouded in darkness",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 100
+      }
+    ],
+    "6": [
+      {
+        "rule_id": "rule_107_1",
+        "condition": "the Sun Line is long",
+        "meaning": "the book says that the individual's progress and fame will experience an elevated influence for a prolonged period",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 57
+      },
+      {
+        "rule_id": "rule_107_2",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_107_3",
+        "condition": "",
+        "meaning": "",
+        "status": "original",
+        "reason": "keeps only 0% of the prediction words",
+        "kept_percent": 0
+      },
+      {
+        "rule_id": "rule_107_4",
+        "condition": "the Sun Line originates higher up and remains short",
+        "meaning": "the book says that this indicates the influence on the individual's progress is limited in duration",
+        "status": "cleaned",
+        "reason": "",
+        "kept_percent": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+( 11 )
+
+Humanity has always sought to know its future. Astrology is the sole science through which future events can be discerned. Even today, we observe that our revered sages and astrologers of yore have left behind written records of the future spanning thousands of years. The almanac (*Panchang*), which we consult daily, stands as a living testament to this truth. It is by the grace of Jyotish that our astrologers, through precise planetary calculations made ages in advance, can accurately determine the exact dates and times of solar and lunar eclipses down to the very hour and moment.
+
+The advancement of knowledge is possible only when a discipline is presented in such a manner that the general public may derive its rightful benefit. Keeping this precise objective in mind, the publication of this book has been arranged. Most other treatises on this subject are overly abstruse and profound, rendering them inaccessible to the common person.
+
+It is hoped that this book will fulfill this long-standing void in the realm of this sacred science. With its aid, even an ordinary individual will be empowered to understand the tapestry of their life through the study of their palm lines. It is indeed necessary to exercise great patience in acquiring proficiency in this science, for the formation, alteration, and subtle shifting of lines require a considerable span of time. Therefore, I urge my readers to gain knowledge of the lines through this book, to closely monitor their development and diminution, and to venture predictions only after mature deliberation and complete comprehension.
+
+Every living being is eager to know the future. As the proverb goes...

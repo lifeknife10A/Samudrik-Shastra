@@ -1,0 +1,9 @@
+( 155 )
+
+"It is always dangerous to be wise enough" [See position no. 2 in Figure No. 2]
+
+It is frequently observed that in the hands of certain individuals, the origin of the Head Line is separate from the Life Line, and originating from its starting point, it proceeds upward toward the Mount of Jupiter. A line of this nature possesses special significance. However, before describing its attributes, it is essential to understand a few important points. The Head Line can detach from the Life Line and travel toward the Mount of Jupiter in several ways. [See the line marked no. 1 in Figure No. 3]
+
+If the Head Line is completely detached from the Life Line, it signifies that a person with such a line is inclined toward carelessness. Such an individual remains unconcerned even about the most crucial of tasks. Their life passes in nonchalance; they feel no anxiety regarding any undertaking, regardless of how important it may be to them. This kind of negligence induces a certain lethargy in their life, causing the greatest harm to the individual themselves. [See the line marked no. 2 in Figure No. 3]
+
+If the Head Line is clear, distinct, and deep, and simultaneously the region of the First Mount of Mars is also more prominent on the palm compared to the positions of other planets, then under such circumstances, the individual possesses boundless enthusiasm. They maintain zeal in their work and exhibit an extreme eagerness to perform every task. However, coupled with this, another flaw develops in them: due to their enthusiastic habit—that is, becoming so immersed in the surge of their enthusiasm...

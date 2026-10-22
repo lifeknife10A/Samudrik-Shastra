@@ -1,0 +1,7 @@
+(124)
+
+...commits suicide by jumping into water, burns his body by setting it on fire, or ends the play of his life by falling from a great height. Although hands possessing a confluence of these three lines are rarely encountered, one must nevertheless keep in mind that if such a hand exists, this is the resulting outcome. (See site no. 6 in Figure no. 4).
+
+Generally, the Life Line and the Head Line are joined at their origin. The sole reason for this is that they share the same point of emergence, and numerous minor lines sprout from their vicinity. These small, scattered lines encompass the hand in such a way that they cause both lines to become branched and merged with one another. If these joined lines separate before reaching the center of the palm, the result is auspicious. An individual with such lines remains firm in their resolve, is careful and vigilant in their work, and grasps matters easily, yet possesses a high degree of self-confidence. Conversely, if these two lines originate separately from the very beginning, the individual tends to be careless, shows no interest in academic pursuits, and remains absorbed in their own world. On the contrary, if there is a uniform distance between these two lines, such an individual is farsighted, ambitious for fame, courageous, and enthusiastic. (See the unnumbered lines in Figure no. 5).
+
+Of all the primary lines present in a human hand,

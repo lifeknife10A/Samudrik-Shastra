@@ -1,0 +1,7 @@
+[ 157 ]
+
+Along with this, when carelessness, haste, and irritability become ingrained in a person's nature, they fail to achieve success in any of their endeavors and, due to incurring losses as a result, are also deemed foolish. Frequently, when such a line is found in the hands of women, it is often observed that a woman possessing this type of line is ready to undertake every task without forethought, and consequently suffers losses in the end. As this gap progressively increases, the individual becomes increasingly fickle-minded and heedless. Yielding to the impulse of their fiery temperament without any thought or comprehension, they execute their tasks, caring not the least for profit or loss. The outcome of work done in haste has always been detrimental.
+
+Western authorities term such an individual a "headless creature." It is also a well-known adage among them: "One who plunges without caring to know the depth always sinks." This proverb holds true in every literal sense.
+
+Conversely, if the Head Line originates at a distance from the Life Line, leans toward the Mount of Jupiter, and simultaneously touches the Life Line, an individual with such a line is exceedingly wise. Before taking any task in hand, they contemplate it thoroughly and commence the work only after considering the consequences. They take a deep interest in the task and engage in it with utmost care and diligence. It is possible that in doing so,

@@ -1,0 +1,7 @@
+[ 127 ]
+
+They are neither excessively long nor overly deep. Among these minor lines, one is the Mars Line, which runs parallel to the Life Line. Other lines are small and terminate after a short distance. Astrologers and palmists have termed these as "Lines of Influence" (Prabhutva Rekhayen). These lines are situated inside the Life Line, running alongside the Mars Line. By observing these, one can easily conclude that an individual possessing such lines exerts authority over their administrative or professional circle through their distinct influence. The greater the number of these lines, the larger the group of people over whom the individual holds sway. The clearer, deeper, and longer these lines are, the more enduring the individual’s influence will remain. (In Diagram No. 6, the markings 3-3 represent the Mars Line, and the adjacent lines without numbers are the minor lines of influence).
+
+It has already been established that a line running parallel to the Life Line is called the Mars Line. The Mars Line frequently originates from the Mount of Mars and runs parallel to the Life Line, either continuing alongside it until its end or terminating midway. Whether the line begins deeply and clearly and fades away, or terminates prematurely, does not significantly alter the predictive outcome. This line is also referred to as the "Second Life Line."
+
+The Mars Line undoubtedly influences a person’s health and longevity. An individual with such a line remains free from diseases. If the Life Line becomes indistinct further along...

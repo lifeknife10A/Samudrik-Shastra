@@ -1,0 +1,7 @@
+(150)
+
+There comes a time when he contemptuously abandons and separates from her. The Sun plays a dominant role in this psychological condition. The Sun planet desires fame and glory, and for this very reason, it steers the individual away from actions that bring dishonor.
+
+Small, clear lines rising upward near the Heart Line indicate how many times an individual with such lines has plunged into and emerged from romantic liaisons and affairs of the heart. Those lines that intersect the Heart Line clearly indicate that the subject's love affairs were felicitous and joyful, whereas those that do not intersect the Heart Line reveal that the individual's romantic endeavors were fraught with sorrow. Some people possess certain dots upon their Heart Line. These dots are symbols indicating that the individual's heart is of a fickle and easily unsettled nature. An individual with such dotted marks should never engage in any activity that accelerates their heartbeat, namely palpitations of the heart. Running, strenuous exertion, and excessive worry are strictly prohibited for them. (Refer to sites 1, 2, and 3 respectively in Figure No. 6.)
+
+It has been observed that in the hands of certain individuals, there are red dots, parallel line marks (=), or moles. If all these signs are present together or separately in a person's hand, an individual bearing such marks is forever destined to face disappointment in the path of love.

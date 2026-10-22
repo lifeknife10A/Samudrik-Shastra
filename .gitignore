@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+engine/test_photos/
+engine/*.jpg
+engine/*.png
+engine/vision_test_results/

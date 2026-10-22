@@ -1,0 +1,8 @@
+(33)
+Regardless of the type, this hand may possess the characteristics of a spatulate, square, or philosophical hand. It is an inherent trait of individuals with such a hand to abandon tasks before completion and immediately embark upon new ones; consequently, success always remains elusive to them.
+
+If the fingers of the hand are square and taper to pointed tips, such individuals are often deceitful and prone to serving their own interests by deceiving others. When characterized by a coarse or commercial hand, they tend to be indifferent and reliant on others to accomplish their work. While they may be able to speak on various subjects, their words fail to leave any significant impression upon the listener.
+
+It is also essential to recognize that hands can be either soft or firm. A firm hand is indicative of a hardworking, energetic, and patient nature. Conversely, a soft hand is a sign of one who is comfort-loving, idle, and easily distressed by even minor difficulties. The right hand modifies the lines of the left and reveals the changes brought about in life through one’s own efforts; thus, this hand should be termed the 'active' hand. The left hand reveals innate or ancestral characteristics and should, therefore, be termed the 'passive' hand.
+
+When a line is present in both hands, its effect is fully realized. If a line is found only in the right hand, its effect is greater than half, whereas if it is found only in the left hand, its effect is less than half. If the hands are large, long, and knotty, with strong joints on the fingers and thumbs, and if the phalanges are slightly prominent or any of the aforementioned marks are present, that person is capable of describing any matter with complete and comprehensive detail.

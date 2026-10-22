@@ -1,0 +1,9 @@
+(266)
+
+He is destructive and possesses immense, fearless power; he is capable of causing exhaustion or placing others in perilous situations, yet he achieves success in every endeavor. In matters of love, he acts with audacity and refuses to heed the arguments of others. He is a connoisseur of food and drink. He has a preference for circuses, cockfights, and dangerous sports. He is arrogant, ostentatious, and always seeks to lead; he views those who work with a calm temperament with disdain. If he is an artist, he paints scenes of battles and jungle hunts; if a singer, he performs martial songs and dances; if a lover of literature, he narrates tales of war. He is a leader of men and becomes a subject of admiration in crowds. He enjoys traveling and prefers living away from home. He favors vibrant red or blue colors. If such an individual possesses an inauspicious hand, he may become a murderer, a dacoit, or a notorious criminal.
+
+His lifespan is seventy years. Death, in such cases, is often caused by weapons or fire. Those dominated by the Moon possess traits of imagination, love for solitude, detachment, a poetic temperament, a penchant for secrecy, and the ability to have prophetic dreams.
+
+Traits of the Lunar Type:
+
+He has a tall stature, a round and broad head, and eyebrows positioned slightly above the temples. His complexion is fair, his flesh is soft, his hips are large, and his hair is fine; there is little to no hair on his body. His nose is small and rounded at the tip. His mouth is small, lips are thick, and teeth are large, yellowish in color, irregular, and prone to early decay; the gums are often pale.

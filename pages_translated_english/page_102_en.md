@@ -1,0 +1,9 @@
+(198)
+
+definitely creates obstacles. (Figure 3)
+
+It is frequently observed that scattered minor lines run alongside the Sun Line, eventually merging into it. Such lines exert a direct influence on the Sun Line. The planetary mount from which these lines originate imparts its corresponding influence upon the Sun Line, with the result that the deity of that particular mount assists in the individual's advancement. However, if some of these lines intersect the Sun Line at various points, the consequence is that the individual’s progress is hindered by the influence of the planets from which those lines originate, and diverse obstacles begin to impede their advancement. In such a state, it is proper for the individual bearing such lines to maintain their composure and engage in their work with true dedication and perseverance; success will then lie at their feet. [Figure 3]
+
+It is also observed that near its termination, the Sun Line splits into a fork resembling a serpent's tongue. The result of such a line is that the individual's mind becomes fickle and restless, rendering them unable to conduct their endeavors successfully. Temptations and allurements cross their path, causing their concentrated focus to be fractured into multiple directions. The consequence of this division of dedication is that the individual fails to advance upon the path of progress with absolute resolve, resulting either in disrepute or, at best, a complete lack of renown. (Figure 4, Line 1)
+
+When the Sun Line originates from the Life Line, it signifies that the individual can achieve progress only by finding a foundation directly connected to their own life and vitality. In such a condition, it is possible...

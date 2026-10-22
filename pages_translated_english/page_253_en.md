@@ -1,0 +1,9 @@
+(46)
+
+If a person lacks a thumb, they are unable to perform most tasks; therefore, the thumb is far more significant than the fingers. Consequently, it is appropriate to describe it, as it reveals a person’s willpower and reasoning power.
+
+A thumb that is elevated, fleshy, and rounded in shape is considered to yield excellent results. Conversely, one that is crooked, small, or flat is a destroyer of happiness and good fortune.
+
+A broad and spread-out thumb indicates an unhappy man devoid of a wife; if a woman possesses such a thumb, she is destined to become a widow. However, if a woman’s toe is perfectly rounded in shape, she is a devoted wife (pativrata).
+
+When a person exercises reasoning power, they often tuck their fingers inward while keeping the thumb on the outside. Conversely, when a person is overcome by anger, their power of judgment is destroyed. When one prepares to strike another by clenching a fist—tucking the thumb beneath the fingers—it signifies that when the power of judgment is consumed by the surge of anger, the thumb retreats inside the fingers. When the power of judgment is awakened, the thumb remains outside. This demonstrates that the thumb represents willpower. As long as this power maintains control over the body and mind, the thumb does not remain hidden within the fingers. This clearly reveals that the thumb is of primary and paramount importance. The thumb consists of only two phalanges; the third phalanx is located in the bone above the Mount of Venus. The thumb is highly useful for understanding a person’s character. There are three primary aspects of the thumb: the first is love, the second is logic, and the third is willpower.

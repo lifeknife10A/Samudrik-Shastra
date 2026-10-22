@@ -1,0 +1,9 @@
+( 186 )
+
+It has also been observed that in the hands of many individuals, right at its point of origin, the Fate Line splits into a snake-tongue shape (forked). In such a condition, this line proves to be detrimental. A person with this type of line possesses an unstable mind. Their consciousness finds no peace, and they continually cause financial losses to their loved ones, including their mother, father, relatives, and kin. (Figure 5)
+
+If the Life Line of an individual with this type of line is also flawed—meaning wavy, broken, entangled, or obscure—then it can be stated with certainty that such a person is short-lived, frail, sickly, and prone to anger over trivial matters. Before arriving at such a conclusion, it is essential to pay close attention to the Life Line.
+
+If the Fate Line is halted mid-course due to the intersection of the Head Line, leaving no trace of it further ahead, the result is that individuals with this type of line do achieve progress, but their advancement fails to reach its full development. Their own intellect acts as a thorn on their path of progress. Mental flaws such as madness, foolishness, anger, uncertainty of thought, and excessive imagination obstruct their path to advancement. (Figure 7, Location 1)
+
+It is frequently observed that minor lines originating from the Mount of Moon either merge with the Fate Line or intersect it. The effect of these lines is that the lives of such individuals are invariably influenced by other people. When these minor lines intersect, it is often seen that if the Fate Line is clear, straight, and deep, it serves to further propel their progress.

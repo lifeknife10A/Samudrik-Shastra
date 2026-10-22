@@ -1,0 +1,9 @@
+(41)
+
+Forming its own domain, this region extends from the Venusian sphere, merges with the lunar influences, and terminates in the upper portion of the Mount of Moon. The lines traversing this area invariably bear the combined influence of these three planets. This sector is the most direct and elongated. Above it lies the position of Jupiter, and below it sits the seat of Rahu.
+
+The Mount of Venus is the semicircular region in the lower part of the palm, located on the side facing the thumb, where it meets the Mount of Mars. Due to the influence of Mars, it cannot extend upward, and constrained by the influence of Rahu below, it cannot exert its effect upon the Moon. Its nature is inherently very tranquil; however, due to constant waywardness, it possesses an obstinate character.
+
+Owing to the intervention of Rahu between the Moon and Venus, they remain separated from each other. Yet, being inherently more powerful, the Moon maintains dominance over a specific zone. On the other side, it is encompassed by Mercury. Rahu resides below. Despite being surrounded on all sides, the Moon forms an acute arc, passing near the Mount of Jupiter and reaching toward the Sun Line. Because of the overwhelming influence of Jupiter, it is unable to touch the Sun. Between Saturn and the Sun, Ketu resides, coiled like a serpent. Rahu, situated below near the Moon, inevitably manifests its influence from time to time. Since the influence of the Sun and the Moon is predominant, whenever an opportunity arises, Rahu never fails to exert its effect.
+
+Mercury: The Mount of Mercury is situated near the thumb. It is the most direct and balanced. It neither provokes anyone unnecessarily nor seeks to cause harm through its influence. Of the Moon...

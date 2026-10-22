@@ -1,0 +1,9 @@
+(( 0152. ))
+
+Driven by impulsive passion, such a person is capable of doing almost anything. Owing to this volatile habit, they are naturally quarrelsome by nature, rushing into fights without forethought or consideration of consequences, and frequently turning their own friends into enemies. Because of this trait, they fail to gain popularity and are never regarded as a person of good conduct [refer to the emergence of the line below the designated area in Figure No. 1].
+
+An individual bearing a line of this nature can never become anyone's darling; due to their fierce temperament, they create numerous enemies in the course of life. They have no friends, and even the few friends they manage to have eventually turn into enemies because of their disposition. In short, it suffices to say that a line of this kind is inauspicious.
+
+Frequently, the Head Line originates from the exact starting point of the Life Line, running concurrently while touching it for a certain distance, before eventually diverging towards its destination. A Head Line of this type, which runs alongside touching the Life Line and separates further ahead, is known to yield auspicious results. According to the opinion of astrologers, the clearer, more distinct, and deeper a Head Line possessing these features is, the more favorable results it will confer [refer to Figure No. 2, location No. 1].
+
+Individuals possessing a line of this kind remain perpetually vigilant and alert regarding their self-interests. Wherever the question of their personal gain arises, they act with utmost caution and never let an opportunity slip from their hands. On account of their sharp memory and vigilance,

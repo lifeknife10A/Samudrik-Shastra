@@ -1,0 +1,11 @@
+(288)
+
+Those possessing rough, reddish skin, square shoulders, and a thumb where the first phalanx is round and flat, with the third phalanx of the fingers raised from within, exhibit specific characteristics. They have a moderately high, strong, short, and thick head; open eyebrows; a round face; and bright eyes, either small or large, in brownish hues. Their lips are marked with red spots; the mouth is large; the lower lip is thicker than the upper; the teeth are small; and the eyebrows are straight and thick. The nose is long with a beak-like tip, the chin is upturned, the beard is coarse, and the ears are small but set away from the head. The cheeks are thick, the chin is prominent, the neck is short and strong, the chest is uplifted, and the shoulders are broad. They have small thighs, short legs, and a gait that is graceful yet swift. Their voice is harsh or deep. The hands are hard and thick, the fingers are short, and the first phalanx of the thumb is larger than the second. Such individuals are impatient in every endeavor.
+
+In those with an inauspicious hand, the stature is short, the face is bloated, the features are intimidating, the eyebrows are arched or knitted, the voice is gravelly or rasping, and the ears are long, accompanied by short, thick hands.
+
+Health: A serious temperament, blood disorders, and skin diseases are indicative of internal ailments. Such individuals frequently suffer injuries in conflicts because of their combative nature; they are prone to fighting their own battles. Those with an inauspicious hand are often sensual, prone to rage, inclined toward alcoholism, and restless; if provoked, they may commit violent acts that lead to imprisonment or the death penalty. They frequently gravitate toward low company, in which they also find interest.
+
+Individuals with a Martian disposition are prone to high fevers and diseases of the internal organs, and are often subject to accidents involving fire.
+
+Mental Faculty: They are generous at heart, proud, charitable, and true friends. They utilize their wealth both for themselves and for others.

@@ -1,0 +1,7 @@
+(( 160 ))
+
+It is frequently observed that the Head Line, originating from a distinct point separate and at a distance from the Life Line, curves in a circular fashion toward the Mount of Moon without ever touching the Life Line. An individual bearing such a line is fickle in their resolutions and lives purely in the realm of imagination. Building castles in the air is their second nature. They lack the capability to fulfill their aspirations. They continually construct palaces of fantasy and remain lost within them. While their imaginative power is undoubtedly heightened, an individual can never be deemed successful in this world until their plans are translated into action. In reality, thorough investigations reveal that a person with such a line simply lacks the capacity to actualize their ambitions. (Refer to line number 192 in the accompanying figure.)
+
+According to Western authorities, such an individual is termed "An Idle Dreamer," implying that a person who weaves hollow schemes lives solely by imagination yet accomplishes nothing. The truth is that even if such a person attempts to translate their designs into reality, they fail to achieve success in doing so.
+
+One of the primary reasons for this is that every individual possesses a fixed reserve of vital energy within their physical frame. A person who expends the major portion of this finite energy upon mere imagining is left with virtually no residual power to execute tasks. Consequently, they remain incapable of completion. Energy, too, has its limits, and the journey of life...

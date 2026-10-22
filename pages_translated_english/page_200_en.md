@@ -1,0 +1,9 @@
+(265)
+
+Those possessing inauspicious hands are destined for blindness and face death far away from their motherland. They are prone to irregular heartbeats, frequent fevers, and the affliction of heatstroke.
+
+Regarding mental capacity: endowed with intuitive knowledge, they grasp subjects with minimal effort. They conceive new inventions with great intelligence and dexterity. They are admirers of nature and craftsmanship, possessing a deep desire for aesthetic beauty and social prestige. They attract people quickly, readily forming both deep friendships and intense enmities. They possess an innate ability to comprehend matters of any complexity with ease, and they often ascend to high positions, thereby accumulating wealth. Their primary vulnerability lies in their tendency to express their inner thoughts too candidly and transparently. In matters of religion, they are not dogmatic and are easily swayed by belief, leaving no room for doubt. Through inner strength, they master esoteric sciences, and their mental faculties remain most active when solving difficult problems. Their temperament is cheerful, compassionate, and inherently drawn to beauty.
+
+One with a Square mark on the Sun Line delights in being surrounded by fine art. In religious observances, they prefer grandeur and music, and they possess a marked affinity for the color yellow.
+
+Women often mock their straightforward nature, and they do not always prove to be shrewd husbands. They are quick to anger but equally quick to calm down. They never harbor jealousy and possess the ability to turn a bitter enemy into a friend. However, their impulsivity generates such resentment that their circle of friends remains small. They have a preference for fresh air and physical exercise, and they are destined to be great travelers.

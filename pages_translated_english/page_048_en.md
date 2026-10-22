@@ -1,0 +1,7 @@
+(146)
+
+Later, he assigns to his romantic life the very place that is fitting for it. Mostly, such individuals are observed to remain detached from married life. (Figure No. 3)
+
+In the hands of numerous individuals, two parallel Head Lines are also observed to run. If an individual possesses two such Heart Lines alongside a long and downward-curving Head Line, a person with hands bearing such lines rises far above ordinary humanity. They derive the greatest joy from benevolence and public service. They are perpetually engaged in the upliftment and advancement of society, community, and nation. Witnessing anyone even slightly distressed causes their heart to melt spontaneously. To the extent possible, they feel compelled to sacrifice their all in acts of charity. (Figure No. 4)
+
+In the hands of certain individuals, if the Heart Line is deep and clear, the point of its origin on the Mount of Jupiter is quite elevated, and numerous minor lines merge into it, then such a person excels in the art of loving. Their love is sublime. They are madly devoted to love and remain so eager in their romantic lives that discussions of love alone occupy their minds. Lines of this nature are generally found in the hands of those who are deeply engrossed in love. This line is most frequently observed in the hands of poets who compose verses of aesthetic and romantic beauty (Shringara Rasa), musicians, and women devoted to the love of their husbands. In short, of this nature

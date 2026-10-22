@@ -1,0 +1,9 @@
+( 148 )
+
+Though limited in intellect, such a person applies whatever faculty they possess to the utmost, striving to execute their tasks with meticulous care. Individuals bearing such characteristic signs are observed to be highly capable and proficient in their endeavors. They possess administrative aptitude and prove to be successful officers. Their defining trait is that they are incapable of abusing their authority. It is never their desire that their actions should cause pain to anyone, nor do they inflict suffering upon others by virtue of their position.
+
+According to Western authorities, such individuals are termed "Born Rulers in the true sense." This implies that they are born rulers by nature—and rulers who place the highest value on justice. Owing to their virtuous qualities, such persons are universally beloved and become recipients of exceptional honor and reverence within their sphere. (Location No. 1 in Figure No. 4)
+
+If the Head Line, from its very inception, remains separated from the Life Line while curving upward toward the upper portion of the Life Line right up to its termination, an individual with such a line is a lover of the fine arts. This type of curved line is found in the hands of artists such as musicians, votaries of literature, poets, writers, painters, and sculptors. It is noteworthy that the curvature of the line is not excessive; it merely appears crescent-shaped. (Lines numbered 1-2 in Figure No. 5)
+
+It is frequently observed that the Head Lines of many individuals are separate from the Life Line, not even touching it, while the gap between them remains small, and the line itself is clear, unblemished, and ordinary.

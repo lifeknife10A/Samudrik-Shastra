@@ -1,0 +1,9 @@
+(27)
+
+They possess deep affection. They are keepers of promises, steadfast in friendship, determined in their objectives, and ethical and honest in business dealings. They do not engage in pretense in matters of love. If the fingers are firm and spatulate (square-tipped), such individuals are truthful and possess a peaceful disposition. Those whose fingers are smooth and whose Head Line is inclined are fond of fine clothing and maintain great personal hygiene. Their capacity for logical reasoning is high; however, a notable flaw is that they often squander a great deal of their time attempting to prove a point. If the little finger is crooked, it indicates a character defect, and one should advise individuals with such hands to strive to overcome this shortcoming.
+
+Spatulate Hand
+
+The fingers of a spatulate hand are curved or bent. In one variation, the palm is wider near the wrist and narrower near the fingers, whereas in another, it is wider near the base of the fingers and narrower toward the wrist.
+
+If a spatulate hand is wider at the base of the fingers, it signifies exceptional industry and practical proficiency. If such a person makes an invention, they apply their intellect to translate that invention into practical application, thereby creating products useful for life. If the hand is broader toward the wrist (the bracelet/Manibandha), the intellect of such individuals is directed toward achieving progress in worldly affairs. If they are religiously inclined, they will be eager to propagate new forms of worship or devotional singing, and they possess the courage to cause a stir across the world even with a modest degree of devotion. Such individuals...

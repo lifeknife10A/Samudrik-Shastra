@@ -1,0 +1,9 @@
+(243)
+
+A person with a thick-set hand is indolent and rarely achieves significant wealth. One who possesses a long, fleshy, and well-formed hand is considered fortunate. A hand shaped like a betel leaf indicates a person destined for prosperity and fame. A hand with a coarse or unattractive structure belongs to a person of low status, while a square-shaped hand is characteristic of a robber. A round hand denotes a businessman. A hand resembling that of a monkey—where the palm is parallel to the skin of the wrist—indicates a person of base intellect, wicked thoughts, and sensuality, yet such a person is often devout and God-fearing.
+
+A person with a deep-set palm is perpetually driven by the craving for wealth. If the fingers are long and the palm is small, the individual is foolish. One with a broad palm is clever and fortunate, while one whose palm and fingers are perfectly balanced is a prosperous businessman.
+
+An individual with thick, long, and well-knit fingers will find happiness through hard work and is considered lucky. If the total number of lines on the fingers (phalanges) amounts to fifteen, the person is base, a thief, and a traitor; such a person should not be befriended. One with sixteen lines is average and behaves like a father figure. One with eighteen lines is an ideal son, while one with sixteen lines (in specific contexts) enhances the glory of his lineage and becomes wealthy. A person with twenty lines is rich but cruel. One with twenty-one or twenty-two lines is enterprising, thoughtful, and talented. Those with more lines than this tend to be impoverished and foolish. Note that the lines on the phalanges of the thumb are not to be counted.
+
+An individual whose nails are perfectly round and small belongs to the mercantile class. One whose nails are short, round, and...

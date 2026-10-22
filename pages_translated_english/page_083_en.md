@@ -1,0 +1,8 @@
+( 176 )
+At the same time, if the Mount of Venus is excessively elevated, and under such conditions, the Fate Line also strives to extend even beyond the base of the middle finger (Saturn), such a person invariably goes to prison. He will be debauched and will be sent to jail on charges of adultery. Further interpretation of his sinful deeds should be made by observing the qualities and flaws of the Head Line, the Heart Line, and the Fate Line. (Figure 2, Location 3)
+
+Similarly, if the Fate Line extends further downward, cutting across the Rascette (bracelet lines) of the wrist, it is also considered inauspicious. Just as a deep, clear, and distinctly visible Fate Line is a symbol of good fortune, an unclear, dull, and indistinct Fate Line indicates that a person possessing such a line is devoid of vigor, vitality, and strength. His life is spent enduring hard times. (Figure 2, Location 2)
+
+2—If the Fate Line originates from the region of the Life Line near the Rascette and proceeds forward in a straight, deep, and clear manner while touching the Life Line, it clearly signifies that such a person elevates his destiny solely through his own hard work and the application of his intellect. His life and his destiny become integrated. All his endeavors lead to his prosperity. While new adversities do arise in the life of every individual, a person with this line overcomes all such calamities by virtue of this line. He attains continuous progress. (Figure No. 3)
+
+If the Fate Line remains unbroken from beginning to end and is not intersected by any other minor lines, then a person possessing such a line...

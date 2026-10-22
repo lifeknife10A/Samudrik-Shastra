@@ -1,0 +1,9 @@
+(23)
+
+[When a person hears a positive prediction], his inner self dances with joy, and he engages in his work with greater enthusiasm and dexterity. Conversely, upon hearing of a bleak future, a person’s heart breaks; his enthusiasm dissipates, and he begins to lead his life with a sorrowful heart. Therefore, it is appropriate for the practitioner of palmistry to exercise extreme caution when delivering a reading. It is highly recommended that instead of stating inauspicious outcomes explicitly, the palmist should attempt to convey them through subtle hints or suggestions.
+
+The individual seeking a reading should listen attentively to the prognosticator’s counsel, accepting what resonates with them and as much fortitude as they can muster. They should embrace positive thoughts and take proactive measures in anticipation of future events so that the consequences are not unduly detrimental, while also keeping in mind the auspicious results that are to come. One should approach the palmistry session with a mind free from all anxieties.
+
+One should approach the preceptor (Guru) with a focused mind, free from lust, anger, greed, and delusion. With great humility, one should offer fruits, flowers, and a customary fee (Dakshina) as a gesture of respect. Before presenting one's hand for examination, it should be washed clean with water.
+
+During the hand examination, one should neither allow a third party to be present nor bring anyone along, as it disrupts the concentration of both the practitioner and the recipient. Furthermore, if there is any mention of a character flaw or vice, it would be revealed to the third party, leading the individual whose hand is being examined to deny even the truthful, albeit unpleasant, aspects of the reading.

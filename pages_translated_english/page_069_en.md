@@ -1,0 +1,8 @@
+( 167 )
+
+starts doing so, his associates understand him well and also cease to trust him. (Figure No. 6)
+The opinion of a renowned Western palmist is—".........such a man having such line develops himself to a mean, cruel and unreliable creature," meaning that a person with this type of line becomes ignoble, cruel, and untrustworthy. Such is the terrifying impact of this line upon an individual.
+
+3. If, upon curving excessively, the Head Line reaches the Mount of Moon and, combining with other lines, transforms into a wavy formation, its impact on the mind is profound. Individuals with a chained Head Line are frequently observed to be victims of madness, eccentricity, and epilepsy. Due to the derangement of the mental state, paralysis has also been observed in their bodies. The consequence of paralysis is that a limb of the individual's body becomes dysfunctional, and control over the body is lost. Generally, this is a type of disease that arises within the body due to disorders of the *Vata* (wind) element; this fatal disease is called Paralysis in English and *Pakshaghat* (paralysis) in Hindi. (The terminal part of the line in Figure No. 10)
+
+4. When a snake-tongued line curves and, merging with the lines around the Mount of Moon, inscribes a multiplication sign (*guna*) or a star/cross sign (*nakshatra*), an individual with such marks is prone to excessive worry. They become so distressed by their anxieties that their mind becomes deranged, leading to madness. (Figure No. 10, locations 1-1)

@@ -1,0 +1,7 @@
+( 167 )
+
+the hand and may terminate at the bottom of the third finger or may not even reach the same. Yet its presence on the hand is bound to influence the success of the man. Its qualifications are to indicate capability, accomplishment of virtuous status in life and society etc, without this line, the prospects of rising to fame, however clever & talented are more or less remote.
+
+That is to say, the prominent line, often called the Apollo Line or Sun Line, does not originate from one fixed place on the hand, nor is it found in every hand. However, whenever it is present on the hand, it always proceeds toward the domain of the planet Sun situated beneath the ring finger. It originates from various locations on the hand and may terminate even before reaching beneath the third finger. Yet, its appearance on the hand is bound to influence life and enhance the renown of the person. Its attributes are that it indicates diligence, the manifestation of merits, and the attainment of honor in life and society. Without this line, a person—no matter how clever, skilled, or intelligent they may be—can never attain true fame.
+
+A straight, well-formed, distinct, deep, and clear Sun Line, running parallel to the Fate Line right from the wrist (Manibandha), is considered the most auspicious. The person in whose hand this line is found attains all-around accomplishments and achieves great renown. Conversely, a faint, obscure, and indistinct Sun Line, rather than bringing fame, does not necessarily cause infamy, yet the progress of the individual...

@@ -1,0 +1,9 @@
+( 66 )
+
+If the hand is well-fleshed and the Mount of Mars is prominent, the individual possesses strong logical reasoning, an interest in gambling, and an affinity for lotteries and other games of chance. If, along with the aforementioned signs, the Mount of Mercury is elevated, the person engages in speculative business.
+
+If the fourth finger, the little finger (Kanistha), is long, it confers the power of intellect, the ability to accumulate wealth, and the aptitude for acquiring languages. If excessively long, it bestows cunning, cleverness, and a sharp intellect. If short, it produces traits such as dull-mindedness, failure in endeavors, and difficulty in grasping matters easily. If crooked, it leads to habits of silence, easily falling under the influence of others, and weakness of thought. There is a lack of noble virtues and moral knowledge, alongside a tendency for profitable opportunities to slip away from one's grasp. The individual fails to pay attention to those who would offer assistance. If the tip of the finger is square, the person makes an excellent teacher.
+
+The fingers should be proportional in length to the palm. When this is the case, the individual is endowed with exceptional intellect and mental power, which is a sign of good fortune. If the fingers are overly long, the person is often tormented by the agony of separation (viraha), absorbed in their own contemplations, and generally suspicious or imaginative. Such a person does not find rest until they have deeply investigated every matter spiritually and intellectually. They tend to be sluggish in speech and action, and slow to make decisions.
+
+A person with short fingers is clever, narrow-minded, quick to dive into action, and eager for rapid gains. Their writing style is concise, profound, and captures the essence of matters.

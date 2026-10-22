@@ -1,0 +1,9 @@
+(40)
+
+It is of utmost importance to understand this. The complete details of the planets are presented in this illustration. Without a doubt, the influence of the planets impacts all lines. The Saturn line, originating at a distance from the base of the index finger, eventually connects with it. The points of intersection on the lines of the Venus girdle exert a profound influence.
+
+Saturn: Beginning from the base of the middle finger, this region encompasses the entire area, leaving only a small portion near the base of the index finger and the upper part of the ring finger; it never fails to manifest its influence. Although the Saturnian region is smaller than that of all other planets, its significance is the greatest. Its impact is most pronounced upon the health, wealth, and Fate lines. Due to the proximity of Jupiter, Saturn could not merge with it, but by extending towards the base of the index finger and claiming a portion of the Sun region, it ensures that no lines passing through that area remain unaffected. Even when the Sun is powerful, Saturn does not fail to impose its restrictions.
+
+Jupiter (Guru): This planet is the most powerful among all the constellations. All auspicious activities are scheduled during its transit. It holds complete dominion over the region spanning the little finger and the remainder of the ring finger. No other planet possesses the strength to enter its domain and establish authority. Its region is the widest; upon inspection, it can be observed to extend from the little finger down to the area beneath the thumb. Despite the uneven nature of this region, it remains of paramount importance.
+
+Mars: The region of this planet lies below that of Jupiter. It originates from the lower part of the marriage line and develops downwards.

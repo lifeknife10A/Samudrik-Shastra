@@ -1,0 +1,9 @@
+6)
+
+Even today, they are viewed with a sense of respect. It is said that when Alexander the Great set out from his kingdom for world conquest, an astrologer accompanied him, who would advise him on the auspicious timing for attacks, the deployment of the army, and even the direction to advance along the route. Be that as it may, it is a hard truth that the science of astrology existed in Greece and that it had spread there from India itself.
+
+The inhabitants of the great continent of China have held a firm belief in the science of astrology since ancient times. Even today, this science enjoys widespread popularity in their country, and its people have great faith in it. Historians opine that this science has been prevalent there since approximately 2500 to 3000 years before Christ.
+
+In other parts of Europe, astrology was propagated by the Gypsies. The Gypsies are akin to the nomadic banjaras of India. They do not prefer to stay in one place. Loading their entire household on carts drawn by horses and other cattle, they constantly wander from place to place. Manufacturing and selling items such as knives and scissors is their primary occupation, while their womenfolk adorn themselves and go among the public to sell knives and razors. They also sing songs, beg for alms, and earn their livelihood by reading the lines of people's hands. It was the Gypsies who propagated this science in other European countries.
+
+The country whose attention was first drawn to this science of palmistry pursued by the Gypsies was Germany. Germany embraced this science and was the first in Europe to publish books on the subject. For many past years, the German people have been engaged in astrology.

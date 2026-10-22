@@ -1,0 +1,9 @@
+(138)
+
+Even if the Life Line is broken, if the Mars Line remains clear and deep, the individual may indeed fall victim to an incurable disease, but that affliction will not result in their death. While a break in the Life Line typically indicates the possibility of premature death, the presence of a clear and long Mars Line exerts an influence that allows the individual to escape such an untimely demise.
+
+Despite all these mitigating factors, the planetary lord Mars never fails to manifest its influence. It is the nature of Mars to make a person irritable, prone to sudden bursts of anger and passion, and generally short-tempered. Such an individual may stir up conflict, yet their heart remains free from malice, and they are never duplicitous.
+
+The Mars Line often possesses branches. If a branch originates from the Mars Line and, after crossing the Life Line, extends towards the bracelet line (rascette), then the point at which this branch intersects the Life Line marks the period of the individual's death. An individual possessing such a branched Mars Line is shortsighted and impulsive, and due to these very traits, they frequently invite misfortune upon themselves without cause. (Refer to the dotted line marked 4-4 in Figure No. 6).
+
+Generally, any line that intersects other major lines results in the creation of obstacles in the individual's life. Such a person is forced to confront challenges time and again. Consequently, upon observing lines that intersect the Life Line, one may confidently conclude that the individual with such a hand will consistently be troubled or harassed by their assistants, employees, and subordinates.

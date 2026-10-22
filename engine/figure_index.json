@@ -1,0 +1,1631 @@
+{
+  "health_line": {
+    "1": {
+      "crop": "Health_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        135
+      ],
+      "pdf_pages": [
+        35
+      ],
+      "passages": [
+        "There are numerous differences of opinion regarding the origin and course of the Health Line. First and foremost, in the hands of many individuals, the Health Line is entirely absent. In the hands of many others, it appears vague and indistinct, while in some, it is deep, long, and clear (refer to number 2 in Figure No. 1).",
+        "According to Indian astrology, the Health Line originates from above the Wrist Band (Maniabandha) and extends towards the Mount of Mercury. Its most auspicious placement is when it is clear at the lower end and does not touch the Life Line at all (refer to lines marked 1-1 in Figure No. 1)."
+      ],
+      "rule_ids": [
+        "rule_35_0",
+        "rule_35_1",
+        "rule_35_2",
+        "rule_35_6",
+        "rule_35_7"
+      ],
+      "rules": [
+        {
+          "id": "rule_35_0",
+          "obs": "Health Line is entirely absent"
+        },
+        {
+          "id": "rule_35_1",
+          "obs": "Health Line appears vague and indistinct"
+        },
+        {
+          "id": "rule_35_2",
+          "obs": "Health Line is deep, long, and clear"
+        },
+        {
+          "id": "rule_35_6",
+          "obs": "Health Line originates from above the Wrist Band (Maniabandh"
+        },
+        {
+          "id": "rule_35_7",
+          "obs": "Health Line is clear at the lower end and does not touch the"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1"
+      ]
+    },
+    "2": {
+      "crop": "Health_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        136
+      ],
+      "pdf_pages": [
+        36
+      ],
+      "passages": [
+        "If a person has a Health Line that originates from the bracelets (Rascette lines) or just above them, and proceeding towards the little finger, merges with the Heart Line, the resulting effect is that an individual with such a line in their hand inevitably becomes a victim of heart diseases. They suffer from palpitations, and the simple remedy to avoid this is that they must cease exercise, worry, and the consumption of intoxicants; only then can their life be preserved. (Observe line number 1 in Figure No. 2)",
+        "If a person's Health Line originates from the termination point of the Life Line and extends upward, such an individual suffers from kidney disease. If this line is broken at position 2, the individual's digestive power becomes weak, and due to disorders developing in the lungs, they fall prey to tuberculosis or asthma. (Observe the line originating from number 2 in Figure No. 2)"
+      ],
+      "rule_ids": [
+        "rule_36_0",
+        "rule_36_3",
+        "rule_36_4",
+        "rule_36_5",
+        "rule_36_6"
+      ],
+      "rules": [
+        {
+          "id": "rule_36_0",
+          "obs": "Health Line is deep in the hand"
+        },
+        {
+          "id": "rule_36_3",
+          "obs": "Health Line originates from the bracelets (Rascette lines) o"
+        },
+        {
+          "id": "rule_36_4",
+          "obs": "Health Line merges with the Heart Line"
+        },
+        {
+          "id": "rule_36_5",
+          "obs": "Health Line originates from the termination point of the Lif"
+        },
+        {
+          "id": "rule_36_6",
+          "obs": "Health Line is broken at position 2"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Health_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        137
+      ],
+      "pdf_pages": [
+        37
+      ],
+      "passages": [
+        "( 137 ) He is constantly afflicted by ailments such as roundworms, liver disorders, and dropsy. If a person with such a line has wide fingernails bearing red hues intermingled with white spots, he suffers from severe diseases. His health can never remain good. (Refer to lines marked 1-1 in Figure No. 3)",
+        "Those individuals whose fingernails are broad and whose Health Line contains island marks at various places are invariably plagued by throat ailments and remain constantly surrounded by diseases of the throat. Furthermore, those people who have long fingernails and possess island marks on their Health Line will be distressed by chest diseases. They will be continually troubled by kidney pain, palpitations of the heart, and similar afflictions. (Refer to lines marked 2-2 in Figure No. 3)"
+      ],
+      "rule_ids": [
+        "rule_37_0",
+        "rule_37_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_37_0",
+          "obs": "Health Line contains island marks at various places"
+        },
+        {
+          "id": "rule_37_1",
+          "obs": "Health Line has island marks"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1",
+        "line 2-2"
+      ]
+    },
+    "4": {
+      "crop": "Health_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        138
+      ],
+      "pdf_pages": [
+        38
+      ],
+      "passages": [
+        "It is frequently observed that in the hands of some individuals, another line runs parallel to the Health Line in a similar manner. We refer to this line as the Subsidiary Health Line. Such a Subsidiary Health Line is not commonly seen; it appears in only one out of every few thousand hands. The greatest beneficial effect of this Subsidiary Health Line is that if there are any defects or flaws within the Health Line itself, this auxiliary line nullifies those blemishes and yields auspicious results. (Refer to the lines marked 1-1 and 1-2 in Figure No. 4.)",
+        "If an individual's Health Line is straight, long, and clear, its results are auspicious. However, it must also be kept in mind that neither this line nor any of its subsidiary lines should touch or intersect the Life Line. By misfortune, if an individual's Life Line is broken at some point and the Health Line crosses directly through that broken area, then death is certain for that individual under such conditions. (Refer to the dotted line marked 1-3 at location No. 3 in Figure No. 4.)"
+      ],
+      "rule_ids": [
+        "rule_38_0",
+        "rule_38_1",
+        "rule_38_2",
+        "rule_38_4"
+      ],
+      "rules": [
+        {
+          "id": "rule_38_0",
+          "obs": "The length of the Health Line"
+        },
+        {
+          "id": "rule_38_1",
+          "obs": "Another line runs parallel to the Health Line in a similar m"
+        },
+        {
+          "id": "rule_38_2",
+          "obs": "Health Line is straight, long, and clear"
+        },
+        {
+          "id": "rule_38_4",
+          "obs": "Health Line crosses directly through the broken area of the "
+        }
+      ],
+      "sub_labels": [
+        "line 1-1",
+        "1-2",
+        "dotted line 1-3"
+      ]
+    },
+    "5": {
+      "crop": "Health_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        136
+      ],
+      "pdf_pages": [
+        39
+      ],
+      "passages": [
+        "For those individuals whose nails are both rounded and elongated, and whose Health Line forms an island mark near the Head Line of the hand, there is a strong astrological combination for contracting *Rajayakshma*, that is, tuberculosis. (See island mark No. 7 in Figure No. 5)",
+        "When the Health Line is properly situated in its appropriate place, touches both the Heart Line and the Head Line, and inscribes some mark within the space between these lines, in such a case it signifies throat ailments. (See the star mark No. 3 in Figure No. 5)"
+      ],
+      "rule_ids": [
+        "rule_39_1",
+        "rule_39_2"
+      ],
+      "rules": [
+        {
+          "id": "rule_39_1",
+          "obs": "nails are both rounded and elongated, Health Line forms an i"
+        },
+        {
+          "id": "rule_39_2",
+          "obs": "Health Line is properly situated, touches both the Heart Lin"
+        }
+      ],
+      "sub_labels": []
+    }
+  },
+  "life_line": {
+    "5": {
+      "crop": "Life_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        136,
+        124,
+        125,
+        126
+      ],
+      "pdf_pages": [
+        39,
+        319,
+        320,
+        321
+      ],
+      "passages": [
+        "Conversely, if the Health Line runs parallel to the Life Line, but upon approaching the *Manibandha* (wrist bracelet) takes the shape of a bow without touching the Life Line, then in such a case, although the individual falls victim to severe illnesses, they ultimately attain complete recovery and enjoy a long lifespan. (See line 1-1 in Figure No. 5)",
+        "Generally, the Life Line and the Head Line are joined at their origin. The sole reason for this is that they share the same point of emergence, and numerous minor lines sprout from their vicinity. These small, scattered lines encompass the hand in such a way that they cause both lines to become branched and merged with one another. If these joined lines separate before reaching the center of the palm, the result is auspicious. An individual with such lines remains firm in their resolve, is careful and vigilant in their work, and grasps matters easily, yet possesses a high degree of self-confidence. Conversely, if these two lines originate separately from the very beginning, the individual tends to be careless, shows no interest in academic pursuits, and remains absorbed in their own world. On the contrary, if there is a uniform distance between these two lines, such an individual is farsighted, ambitious for fame, courageous, and enthusiastic. (See the unnumbered lines in Figure no. 5).",
+        "Any branches that originate from the middle of the life line and extend downwards indicate that the individual possessing such lines is of an aggressive temperament. They are fond of travel but are cruel in nature. They are timid at heart and prone to laziness. Such individuals frequently indulge in intoxicating substances and habitually avoid hard work. These characteristics are not considered auspicious. (Refer to the lines marked 1-1 in Figure No. 5).",
+        "If these branches extend toward the Mount of Jupiter, their influence changes entirely. They become indicators of profit and advancement. Due to the favorable placement of Jupiter, the individual attains a high position in society, earns fame, and experiences an increase in their authority. (Refer to the lines marked 2-2 in Figure No. 5).",
+        "(126) will achieve progress. (Refer to the line marked 3-3 in Figure No. 5).",
+        "will achieve progress. (Refer to the line marked 3-3 in Figure No. 5). When such a line extends towards the Mount of Mercury, it clearly indicates that an individual possessing this mark will certainly achieve success in business and artistic endeavors. (Refer to the line marked 4-4 in Figure No. 5).",
+        "Even if the Life Line is deep, long, and clear, the presence of an island mark upon it signifies that the individual will remain in poor health, as an island on the Life Line is an indicator of disease. If such an island is situated at the point where the Life Line begins, the legitimacy of the individual’s birth is brought into question. An individual with such a sign is often not the legitimate offspring of their parents. However, in such cases, the practitioner must exercise great caution. The individual may suffer deep distress upon discovering the true character of their mother or realizing the circumstances of their birth. Therefore, one should never make such declarations unless one possesses specific and certain knowledge regarding the subject’s history. (Refer to the island mark at the position marked 2 in Figure No. 5)."
+      ],
+      "rule_ids": [
+        "rule_319_0",
+        "rule_319_1",
+        "rule_319_2",
+        "rule_319_3",
+        "rule_320_0",
+        "rule_320_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_319_0",
+          "obs": "Life Line and Head Line are joined at their origin"
+        },
+        {
+          "id": "rule_319_1",
+          "obs": "Life Line and Head Line separate before reaching the center "
+        },
+        {
+          "id": "rule_319_2",
+          "obs": "Life Line and Head Line originate separately from the very b"
+        },
+        {
+          "id": "rule_319_3",
+          "obs": "Uniform distance between Life Line and Head Line"
+        },
+        {
+          "id": "rule_320_0",
+          "obs": "Branches originating from the middle of the life line and ex"
+        },
+        {
+          "id": "rule_320_1",
+          "obs": "Branches extending toward the Mount of Jupiter"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1",
+        "line 2-2",
+        "line 3-3",
+        "line 4-4"
+      ]
+    },
+    "1": {
+      "crop": "Life_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        121,
+        122
+      ],
+      "pdf_pages": [
+        316,
+        317
+      ],
+      "passages": [
+        "( 121 ) It is extremely difficult to determine the lifespan of any living being with absolute certainty; whatever can be predicted is based solely on calculation and conjecture. (Refer to the dotted line marked '1' in Figure 1).",
+        "(122) It is also necessary to observe this (see the site of line no. 1 marked with a dot in Figure no. 1)."
+      ],
+      "rule_ids": [
+        "rule_316_5",
+        "rule_317_2"
+      ],
+      "rules": [
+        {
+          "id": "rule_316_5",
+          "obs": "dotted line marked '1' in Figure 1"
+        },
+        {
+          "id": "rule_317_2",
+          "obs": "It is also necessary to observe this (see the site of line n"
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Life_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        121
+      ],
+      "pdf_pages": [
+        316
+      ],
+      "passages": [
+        "It is often observed that the Life Line originates from its designated position and encompasses the Mount of Venus. While its length, depth, and clarity may appear optimal, the individual’s lifespan does not necessarily extend accordingly. Although a hand displaying such characteristics would theoretically suggest a lifespan of a hundred years, the individual may pass away at the age of fifty. The sole reason for this is that while the Life Line may be deep and distinct, the Health Line passing through that same region appears weak and blurred; or it is possible that an island mark exists exactly where the Health Line appears deep. It is under these specific conditions that an individual meets their end without attaining their full lifespan. (Observe the thickness of both lines and the island mark on the Health Line in Figure 2)."
+      ],
+      "rule_ids": [
+        "rule_316_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_316_0",
+          "obs": "The Life Line originates from its designated position and en"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Life_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        123
+      ],
+      "pdf_pages": [
+        318
+      ],
+      "passages": [
+        "If, instead of originating from its standard position, the Life Line begins from below the index finger and, crossing the Mount of Jupiter, proceeds downwards, such an individual will undoubtedly become a high-ranking official, famous, and learned. Observe the origin of the Life Line in Figure No. 3."
+      ],
+      "rule_ids": [
+        "rule_318_0",
+        "rule_318_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_318_0",
+          "obs": "Life Line is broken"
+        },
+        {
+          "id": "rule_318_3",
+          "obs": "Life Line begins from below the index finger and crosses the"
+        }
+      ],
+      "sub_labels": []
+    },
+    "4": {
+      "crop": "Life_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        124
+      ],
+      "pdf_pages": [
+        319
+      ],
+      "passages": [
+        "...commits suicide by jumping into water, burns his body by setting it on fire, or ends the play of his life by falling from a great height. Although hands possessing a confluence of these three lines are rarely encountered, one must nevertheless keep in mind that if such a hand exists, this is the resulting outcome. (See site no. 6 in Figure no. 4)."
+      ],
+      "rule_ids": [
+        "rule_319_4"
+      ],
+      "rules": [
+        {
+          "id": "rule_319_4",
+          "obs": "confluence of these three lines"
+        }
+      ],
+      "sub_labels": []
+    },
+    "6": {
+      "crop": "Life_Line_Hand_6.png",
+      "crop_exists": true,
+      "printed_pages": [
+        138
+      ],
+      "pdf_pages": [
+        323
+      ],
+      "passages": [
+        "The Mars Line often possesses branches. If a branch originates from the Mars Line and, after crossing the Life Line, extends towards the bracelet line (rascette), then the point at which this branch intersects the Life Line marks the period of the individual's death. An individual possessing such a branched Mars Line is shortsighted and impulsive, and due to these very traits, they frequently invite misfortune upon themselves without cause. (Refer to the dotted line marked 4-4 in Figure No. 6)."
+      ],
+      "rule_ids": [
+        "rule_323_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_323_1",
+          "obs": "break in the Life Line"
+        }
+      ],
+      "sub_labels": [
+        "dotted line 4-4"
+      ]
+    }
+  },
+  "heart_line": {
+    "1": {
+      "crop": "Heart_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        141,
+        142
+      ],
+      "pdf_pages": [
+        41,
+        42,
+        44
+      ],
+      "passages": [
+        "1. Originating from the index finger, that is, the Mount of Jupiter, and running parallel to the Head Line to terminate at the Mount of Mars at the base of the little finger. (Line number 1 in Figure No. 1)",
+        "1. Originating from the index finger, that is, the Mount of Jupiter, and running parallel to the Head Line to terminate at the Mount of Mars at the base of the little finger. (Line number 1 in Figure No. 1) 2. Originating from the base of the middle finger on the Mount of Saturn, running in a semi-circular fashion parallel to the Head Line, and terminating at the Mount of Mars. [Line number 2 in Figure No. 1]",
+        "2. Originating from the base of the middle finger on the Mount of Saturn, running in a semi-circular fashion parallel to the Head Line, and terminating at the Mount of Mars. [Line number 2 in Figure No. 1] 3. Originating from between the planetary mounts of Saturn and Jupiter, running semi-parallel to the Head Line, and terminating at the Mount of Mars. [Line number 3 in Figure No. 1]",
+        "Astrological authorities explicitly state that if this line originates from the Mount of Jupiter and terminates between the Mount of Mars and the Mount of Mercury, such individuals are mostly observed to be unsuccessful in their romantic lives and aspirations. They are eager in pursuit of love, yet their love is not devoid of deceit. This is precisely why they have never succeeded in their love affairs. [Refer to the line formed by the combination of numbers 1 and 4 in Figure No. 1].",
+        "Astrological authorities explicitly state that if this line originates from the Mount of Jupiter and terminates between the Mount of Mars and the Mount of Mercury, such individuals are mostly observed to be unsuccessful in their romantic lives and aspirations. They are eager in pursuit of love, yet their love is not devoid of deceit, and this is the reason why they never succeed in their affection. [Refer to the line formed by the combination of number 1 and number 4 in Figure No. 1]."
+      ],
+      "rule_ids": [
+        "rule_41_4",
+        "rule_41_5",
+        "rule_41_6",
+        "rule_42_1",
+        "rule_42_2",
+        "rule_44_2",
+        "rule_44_3",
+        "rule_44_4",
+        "rule_44_5",
+        "rule_44_6",
+        "rule_44_7",
+        "rule_44_8",
+        "rule_44_9",
+        "rule_44_10",
+        "rule_44_11"
+      ],
+      "rules": [
+        {
+          "id": "rule_41_4",
+          "obs": "Originating from the index finger, that is, the Mount of Jup"
+        },
+        {
+          "id": "rule_41_5",
+          "obs": "Originating from the base of the middle finger on the Mount "
+        },
+        {
+          "id": "rule_41_6",
+          "obs": "Originating from between the planetary mounts of Saturn and "
+        },
+        {
+          "id": "rule_42_1",
+          "obs": "Heart Line originates from the Mount of Jupiter and terminat"
+        },
+        {
+          "id": "rule_42_2",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_2",
+          "obs": "Heart Line originates from the Mount of Jupiter and terminat"
+        },
+        {
+          "id": "rule_44_3",
+          "obs": "Heart Line originates from the Mount of Jupiter and terminat"
+        },
+        {
+          "id": "rule_44_4",
+          "obs": "Heart Line originates from the Mount of Jupiter and terminat"
+        },
+        {
+          "id": "rule_44_5",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_6",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_7",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_8",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_9",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_10",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_44_11",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Heart_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        143,
+        144
+      ],
+      "pdf_pages": [
+        43,
+        45,
+        46
+      ],
+      "passages": [
+        "If such a formation exists, the individual will prioritize self-interest even in their romantic relationships. Whenever they fall in love, they will look to their own advantage first. If the person is a male, he will desire a wealthy female companion who can shower him with riches. He will look at the wealth of his partner rather than her heart. (Line no. 1 in Figure no. 2)",
+        "If this occurs, such an individual looks out for his own self-interest even in his romantic relationships. Whenever he loves someone, he puts his own self-interest first. If such a person is a male, he will desire a wealthy female partner who can provide him with financial support. He looks not at the heart of his beloved, but at her wealth. (Refer to line number 1 in Figure No. 2)",
+        "There are certain individuals whose Heart Line originates from the space between the Mount of Saturn and the Mount of Jupiter, and terminates between the Mount of Mercury and the Mount of Mars. Individuals with this type of line possess profound understanding regarding the matters of love. For them, love is a matter of substance; they do not view it merely as pretense or show. They dislike artificiality and do not wish to bring their romantic affairs into the public eye. They never want their love affairs to become even slightly apparent to anyone else (as illustrated by Line No. 2 in Figure No. 2)."
+      ],
+      "rule_ids": [
+        "rule_43_0",
+        "rule_46_2",
+        "rule_46_4"
+      ],
+      "rules": [
+        {
+          "id": "rule_43_0",
+          "obs": "Heart Line originates from the Mount of Saturn and terminate"
+        },
+        {
+          "id": "rule_46_2",
+          "obs": "Heart Line originates from the space between the Mount of Sa"
+        },
+        {
+          "id": "rule_46_4",
+          "obs": "Heart Line originates from the space between the Mount of Sa"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Heart_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        146
+      ],
+      "pdf_pages": [
+        48
+      ],
+      "passages": [
+        "(146) Later, he assigns to his romantic life the very place that is fitting for it. Mostly, such individuals are observed to remain detached from married life. (Figure No. 3)"
+      ],
+      "rule_ids": [],
+      "rules": [],
+      "sub_labels": []
+    },
+    "4": {
+      "crop": "Heart_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        146,
+        147
+      ],
+      "pdf_pages": [
+        48,
+        49
+      ],
+      "passages": [
+        "In the hands of numerous individuals, two parallel Head Lines are also observed to run. If an individual possesses two such Heart Lines alongside a long and downward-curving Head Line, a person with hands bearing such lines rises far above ordinary humanity. They derive the greatest joy from benevolence and public service. They are perpetually engaged in the upliftment and advancement of society, community, and nation. Witnessing anyone even slightly distressed causes their heart to melt spontaneously. To the extent possible, they feel compelled to sacrifice their all in acts of charity. (Figure No. 4)",
+        "( 147 ) A person with a lined [hand] is more emotional and a lover of the arts. (Figure No. 4)"
+      ],
+      "rule_ids": [
+        "rule_48_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_48_3",
+          "obs": "two such Heart Lines alongside a long and downward-curving H"
+        }
+      ],
+      "sub_labels": []
+    },
+    "5": {
+      "crop": "Heart_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        147,
+        148,
+        146
+      ],
+      "pdf_pages": [
+        49,
+        50,
+        51
+      ],
+      "passages": [
+        "If it is broken beneath the middle finger (Saturn finger), such a person faces failure in love due to the workings of destiny. When they love and do not achieve success, the fault does not lie with the individual, but rather with their fate. By the very will of Providence, numerous obstacles arise in their path of love. (Figure No. 5)",
+        "Western scholars hold the view that anyone who does so can never be successful. Classical Indian astrologers are also in complete agreement with this opinion. Therefore, it has been established as truth that an individual whose Heart Line breaks beneath the Ring Finger can never be successful in love. (Figure No. 5)",
+        "If the Heart Line breaks beneath the fourth finger, an individual bearing such a sign creates obstacles in their own romantic pursuits solely through their own foolishness. It is precisely due to their follies that their love life becomes despondent and fraught with numerous impediments. (Figure No. 5)",
+        "1. When the line breaks beneath the Mount of Saturn, the outcome is that the two individuals experience profound love for one another, and are ready to sacrifice everything to be bound in the sacred bond of marriage. However, inadvertently, some such circumstance arises that forces them apart, and despite a myriad of efforts and endeavors, they can never truly belong to each other. It has been observed in almost a hundred percent of such cases that they end up marrying different partners. The deity Saturn plays the governing role in separating the lover from the beloved, or the beloved from the lover. It is solely due to the malefic influence of Saturn that such individuals fail to unite in marriage. (Figure No. 5, Location 4)"
+      ],
+      "rule_ids": [
+        "rule_49_3",
+        "rule_50_0",
+        "rule_50_1",
+        "rule_50_4",
+        "rule_51_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_49_3",
+          "obs": "Heart Line is broken beneath the middle finger (Saturn finge"
+        },
+        {
+          "id": "rule_50_0",
+          "obs": "Heart Line breaks beneath the Ring Finger"
+        },
+        {
+          "id": "rule_50_1",
+          "obs": "Heart Line breaks beneath the fourth finger"
+        },
+        {
+          "id": "rule_50_4",
+          "obs": "Heart Line breaks beneath the Ring Finger, near the Mount of"
+        },
+        {
+          "id": "rule_51_0",
+          "obs": "Heart Line breaks in two places"
+        }
+      ],
+      "sub_labels": []
+    },
+    "6": {
+      "crop": "Heart_Line_Hand_6.png",
+      "crop_exists": true,
+      "printed_pages": [
+        150
+      ],
+      "pdf_pages": [
+        52
+      ],
+      "passages": [
+        "Small, clear lines rising upward near the Heart Line indicate how many times an individual with such lines has plunged into and emerged from romantic liaisons and affairs of the heart. Those lines that intersect the Heart Line clearly indicate that the subject's love affairs were felicitous and joyful, whereas those that do not intersect the Heart Line reveal that the individual's romantic endeavors were fraught with sorrow. Some people possess certain dots upon their Heart Line. These dots are symbols indicating that the individual's heart is of a fickle and easily unsettled nature. An individual with such dotted marks should never engage in any activity that accelerates their heartbeat, namely palpitations of the heart. Running, strenuous exertion, and excessive worry are strictly prohibited for them. (Refer to sites 1, 2, and 3 respectively in Figure No. 6.)"
+      ],
+      "rule_ids": [
+        "rule_52_0",
+        "rule_52_1",
+        "rule_52_2",
+        "rule_52_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_52_0",
+          "obs": "Small, clear lines rising upward near the Heart Line"
+        },
+        {
+          "id": "rule_52_1",
+          "obs": "Lines that intersect the Heart Line"
+        },
+        {
+          "id": "rule_52_2",
+          "obs": "Lines that do not intersect the Heart Line"
+        },
+        {
+          "id": "rule_52_3",
+          "obs": "Certain dots upon the Heart Line"
+        }
+      ],
+      "sub_labels": []
+    }
+  },
+  "head_line": {
+    "1": {
+      "crop": "Head_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        152
+      ],
+      "pdf_pages": [
+        54
+      ],
+      "passages": [
+        "Driven by impulsive passion, such a person is capable of doing almost anything. Owing to this volatile habit, they are naturally quarrelsome by nature, rushing into fights without forethought or consideration of consequences, and frequently turning their own friends into enemies. Because of this trait, they fail to gain popularity and are never regarded as a person of good conduct [refer to the emergence of the line below the designated area in Figure No. 1]."
+      ],
+      "rule_ids": [
+        "rule_54_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_54_3",
+          "obs": "emergence of the line below the designated area"
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Head_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        152,
+        155
+      ],
+      "pdf_pages": [
+        54,
+        57
+      ],
+      "passages": [
+        "Frequently, the Head Line originates from the exact starting point of the Life Line, running concurrently while touching it for a certain distance, before eventually diverging towards its destination. A Head Line of this type, which runs alongside touching the Life Line and separates further ahead, is known to yield auspicious results. According to the opinion of astrologers, the clearer, more distinct, and deeper a Head Line possessing these features is, the more favorable results it will confer [refer to Figure No. 2, location No. 1].",
+        "( 155 ) \"It is always dangerous to be wise enough\" [See position no. 2 in Figure No. 2]"
+      ],
+      "rule_ids": [
+        "rule_54_1",
+        "rule_54_2"
+      ],
+      "rules": [
+        {
+          "id": "rule_54_1",
+          "obs": "Head Line originating from the exact starting point of the L"
+        },
+        {
+          "id": "rule_54_2",
+          "obs": "Head Line possessing these features (clearer, more distinct,"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Head_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        155
+      ],
+      "pdf_pages": [
+        57
+      ],
+      "passages": [
+        "It is frequently observed that in the hands of certain individuals, the origin of the Head Line is separate from the Life Line, and originating from its starting point, it proceeds upward toward the Mount of Jupiter. A line of this nature possesses special significance. However, before describing its attributes, it is essential to understand a few important points. The Head Line can detach from the Life Line and travel toward the Mount of Jupiter in several ways. [See the line marked no. 1 in Figure No. 3]",
+        "If the Head Line is completely detached from the Life Line, it signifies that a person with such a line is inclined toward carelessness. Such an individual remains unconcerned even about the most crucial of tasks. Their life passes in nonchalance; they feel no anxiety regarding any undertaking, regardless of how important it may be to them. This kind of negligence induces a certain lethargy in their life, causing the greatest harm to the individual themselves. [See the line marked no. 2 in Figure No. 3]"
+      ],
+      "rule_ids": [
+        "rule_57_0",
+        "rule_57_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_57_0",
+          "obs": "The origin of the Head Line is separate from the Life Line, "
+        },
+        {
+          "id": "rule_57_1",
+          "obs": "The Head Line is completely detached from the Life Line"
+        }
+      ],
+      "sub_labels": []
+    },
+    "5": {
+      "crop": "Head_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        156
+      ],
+      "pdf_pages": [
+        61
+      ],
+      "passages": [
+        "The line is deep in appearance. From the point where it originates to the place where it terminates, it remains uniform throughout; it is not circular, but rather straight from the beginning to the end. An individual possessing such a line is an ardent lover of nature. He is fond of a tranquil environment and dislikes commotion. He always remains focused and, distancing himself from clamor, becomes deeply absorbed in beholding natural beauty. Consequently, he prefers to spend his time in places such as gardens, riverbanks, seashores, and mountains. (Refer to line 1-3 in Figure No. 5)"
+      ],
+      "rule_ids": [
+        "rule_61_6",
+        "rule_61_7",
+        "rule_61_8"
+      ],
+      "rules": [
+        {
+          "id": "rule_61_6",
+          "obs": "The line is deep in appearance."
+        },
+        {
+          "id": "rule_61_7",
+          "obs": "From the point where it originates to the place where it ter"
+        },
+        {
+          "id": "rule_61_8",
+          "obs": "it is not circular, but rather straight from the beginning t"
+        }
+      ],
+      "sub_labels": [
+        "line 1-3"
+      ]
+    },
+    "6": {
+      "crop": "Head_Line_Hand_6.png",
+      "crop_exists": true,
+      "printed_pages": [
+        156,
+        167
+      ],
+      "pdf_pages": [
+        61,
+        69
+      ],
+      "passages": [
+        "However, if alongside this, the line bends downward at its termination, it produces an entirely different effect upon the individual’s life. An individual with a downward-curved line at the end is contemplative. He is visionary, and introspection becomes his inherent nature. Even over trivial matters, his mind becomes engrossed in thought, and he begins to deliberate thoroughly upon their causes and consequences. (Refer to line 1-1 in Figure No. 6)",
+        "starts doing so, his associates understand him well and also cease to trust him. (Figure No. 6) The opinion of a renowned Western palmist is—\".........such a man having such line develops himself to a mean, cruel and unreliable creature,\" meaning that a person with this type of line becomes ignoble, cruel, and untrustworthy. Such is the terrifying impact of this line upon an individual."
+      ],
+      "rule_ids": [
+        "rule_61_12"
+      ],
+      "rules": [
+        {
+          "id": "rule_61_12",
+          "obs": "the line bends downward at its termination"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1"
+      ]
+    },
+    "7": {
+      "crop": "Head_Line_Hand_7.png",
+      "crop_exists": true,
+      "printed_pages": [
+        164
+      ],
+      "pdf_pages": [
+        66
+      ],
+      "passages": [
+        "If the Head Line of an individual originates from its standard position, touches the Life Line, extends straight towards the Mount of Moon, and ultimately assumes a forked shape resembling a serpent's tongue near the Mount of Moon, such a line proves to be beneficial for the person. The individual's mental faculty will be balanced; whatever they contemplate, they will also devise the means to accomplish it and strive to fulfill it promptly. Furthermore, if by chance there is a blemish or mole upon this line, the person will be exceptionally intelligent and contemplative. (Location No. 1 in Figure No. 7)",
+        "It is frequently observed that numerous minor lines originate from the region of the Moon and touch the Head Line. If these minor lines are clear and make complete contact with the Head Line, an individual endowed with such traits invariably becomes a successful poet, painter, writer, literary figure, thinker, religious preceptor, or orator. Such a person possesses a special affinity towards nature and, sustained by their calm disposition, remains a profound lover of form, beauty, charm, and the sweetness of nature. (Lines marked 2-2 in Figure No. 7)"
+      ],
+      "rule_ids": [
+        "rule_66_0",
+        "rule_66_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_66_0",
+          "obs": "The Head Line originates from its standard position, touches"
+        },
+        {
+          "id": "rule_66_1",
+          "obs": "A blemish or mole upon the Head Line"
+        }
+      ],
+      "sub_labels": [
+        "line 2-2"
+      ]
+    },
+    "8": {
+      "crop": "Head_Line_Hand_8.png",
+      "crop_exists": true,
+      "printed_pages": [
+        166
+      ],
+      "pdf_pages": [
+        68
+      ],
+      "passages": [
+        "1. When the Head Line divides into two branches, one of which proceeds toward the Mount of Mercury, and is intersected by other minor lines originating from the Mount of Mercury: the lines that emerge from Mercury and cut across the Head Line inevitably exert a detrimental influence. The consequence of this formation is that an individual possessing such characteristics remains lacking in moral purity. He becomes corrupt, his gaze is perpetually fixed upon the wealth of others, and he misses no opportunity to act dishonestly. Cunning becomes a principal component of his life. Tendencies toward deception, betrayal, dishonesty, and the like are found within him. (Line marked 1-1 in Figure No. 8)"
+      ],
+      "rule_ids": [
+        "rule_68_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_68_0",
+          "obs": "When the Head Line divides into two branches, one of which p"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1"
+      ]
+    },
+    "9": {
+      "crop": "Head_Line_Hand_9.png",
+      "crop_exists": true,
+      "printed_pages": [
+        166
+      ],
+      "pdf_pages": [
+        68
+      ],
+      "passages": [
+        "2. If, among the fork-tongued branches of a person's Head Line, one branch extends downward toward the Mount of Moon while the other extends upward toward the Mount of Mercury, such an individual is a deep thinker. His faculty of thought is formidable. Owing to his exceptional genius and elevated intellectual power, whatever he conceives transcends even the imagination of an ordinary human being. The flight of his thoughts holds a distinct and unique place. This sign is indicative of political leaders, successful businessmen, artists, and clever artisans. (Figure No. 9)"
+      ],
+      "rule_ids": [
+        "rule_68_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_68_1",
+          "obs": "If, among the fork-tongued branches of a person's Head Line,"
+        }
+      ],
+      "sub_labels": []
+    },
+    "10": {
+      "crop": "Head_Line_Hand_10.png",
+      "crop_exists": true,
+      "printed_pages": [
+        167
+      ],
+      "pdf_pages": [
+        69
+      ],
+      "passages": [
+        "3. If, upon curving excessively, the Head Line reaches the Mount of Moon and, combining with other lines, transforms into a wavy formation, its impact on the mind is profound. Individuals with a chained Head Line are frequently observed to be victims of madness, eccentricity, and epilepsy. Due to the derangement of the mental state, paralysis has also been observed in their bodies. The consequence of paralysis is that a limb of the individual's body becomes dysfunctional, and control over the body is lost. Generally, this is a type of disease that arises within the body due to disorders of the *Vata* (wind) element; this fatal disease is called Paralysis in English and *Pakshaghat* (paralysis) in Hindi. (The terminal part of the line in Figure No. 10)",
+        "4. When a snake-tongued line curves and, merging with the lines around the Mount of Moon, inscribes a multiplication sign (*guna*) or a star/cross sign (*nakshatra*), an individual with such marks is prone to excessive worry. They become so distressed by their anxieties that their mind becomes deranged, leading to madness. (Figure No. 10, locations 1-1)"
+      ],
+      "rule_ids": [
+        "rule_69_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_69_0",
+          "obs": "Head Line reaching the Mount of Moon and forming a wavy form"
+        }
+      ],
+      "sub_labels": [
+        "1-1"
+      ]
+    },
+    "11": {
+      "crop": "Head_Line_Hand_11.png",
+      "crop_exists": true,
+      "printed_pages": [
+        168,
+        166,
+        171
+      ],
+      "pdf_pages": [
+        70,
+        71,
+        73
+      ],
+      "passages": [
+        "If the Head Line of a person's hand curves upward rather than downward, its influence is distinct. However, an excessive curve toward either direction is always troublesome. In general, an excessive downward curve of the Head Line is also inauspicious. (Figure No. 11, Lines 1-1 and 1-2)",
+        "If a person's Head Line rises upward and extends toward the Mount of Mercury situated beneath the little finger, such a person is sharp-tempered by nature. Their psychological disposition bears the mark of stubbornness. They find it difficult to spend money and are constantly hoarding wealth. Whichever way they turn their emotional inclinations, they embrace vices; it is as though the capacity to appreciate virtues is entirely absent in them. (Figure 11, Line 1-1)",
+        "If island marks appear at certain places on this type of Head Line, it becomes even more detrimental. The memory of such a person is destroyed; they are unable to retain anything in their memory and constantly fall victim to headaches. Headaches are highly injurious to the brain. (Figure 11, Point 3)",
+        "If the Head Line of an individual is inclined towards the little finger, and other small lines originating from the Mount of Jupiter touch the Head Line in the form of branches, then such a person is fortunate. He desires a life filled with luxuries, pleasures, and joy, and after attaining them, lives a life of ease and contentment. (Figure No. 11, Lines 1-1 and Area 4)",
+        "(171) will be expansive. The individual will progress day by day in their trade and business. (Figure 11, Location 4)"
+      ],
+      "rule_ids": [
+        "rule_70_0",
+        "rule_70_1",
+        "rule_70_2",
+        "rule_70_3",
+        "rule_70_5",
+        "rule_71_0",
+        "rule_71_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_70_0",
+          "obs": "Head Line curves upward rather than downward"
+        },
+        {
+          "id": "rule_70_1",
+          "obs": "Head Line curves excessively toward either direction"
+        },
+        {
+          "id": "rule_70_2",
+          "obs": "Head Line curves excessively downward"
+        },
+        {
+          "id": "rule_70_3",
+          "obs": "Head Line rises upward and extends toward the Mount of Mercu"
+        },
+        {
+          "id": "rule_70_5",
+          "obs": "Headaches"
+        },
+        {
+          "id": "rule_71_0",
+          "obs": "Head Line of an individual is inclined towards the little fi"
+        },
+        {
+          "id": "rule_71_1",
+          "obs": "other small lines originating from the Mount of Jupiter touc"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1",
+        "line 1-2"
+      ]
+    },
+    "12": {
+      "crop": "Head_Line_Hand_12.png",
+      "crop_exists": true,
+      "printed_pages": [
+        170,
+        171,
+        172
+      ],
+      "pdf_pages": [
+        72,
+        73,
+        74
+      ],
+      "passages": [
+        "If the line is cut in the zone of Saturn, and prior to the break, the line itself inclines toward the zone of Saturn, an individual with such a line attains wealth. They unexpectedly acquire wealth from somewhere—either a close relative bestows wealth upon them, or they receive wealth as a gift. In short, by whatever means, they are certain to acquire wealth. (Figure 12, Location 2)",
+        "An individual who is an artist—meaning whose livelihood depends solely upon arts and crafts and skilled industries—has their Head Line curving towards the Mount of Sun. The Sun desires progress, and the artist is the successful protagonist in the field of progress. Such individuals are specifically observed to be sculptors, painters, clever artisans, and the like. (Figure 12, Location 3)",
+        "However, having two Head Lines is indeed beneficial. The individual who possesses two Head Lines is endowed with extraordinary abilities. They will make remarkable discoveries using their intellect, and whenever they execute those plans, their approach will be highly advanced and balanced. Success is certain for them. However, this formation of the line is very rarely observed. [Figure No. 12]"
+      ],
+      "rule_ids": [
+        "rule_72_2",
+        "rule_73_0",
+        "rule_73_1",
+        "rule_74_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_72_2",
+          "obs": "Head Line is cut in the zone of Saturn"
+        },
+        {
+          "id": "rule_73_0",
+          "obs": "Head Line curving towards the Mount of Sun"
+        },
+        {
+          "id": "rule_73_1",
+          "obs": "Head Lines"
+        },
+        {
+          "id": "rule_74_0",
+          "obs": "having two Head Lines"
+        }
+      ],
+      "sub_labels": []
+    }
+  },
+  "fate_line": {
+    "1": {
+      "crop": "Fate_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        177
+      ],
+      "pdf_pages": [
+        79,
+        81
+      ],
+      "passages": [
+        "1. Generally, the Fate Line originates from the middle of the wrist line (Rascette) and extends upward to the Mount of Saturn, which is the base of the middle finger. If a person's Fate Line begins at or near the wrist line and proceeds toward the region of the planet Saturn in a clear, deep, and fully distinct manner, that individual is fortunate. While upheavals occur in the lives of all people, an individual endowed with such a line decisively overcomes all obstacles in their path and inevitably attains success in life. A clear and distinct line enhances honor, prestige, and good fortune. Such individuals are observed to be renowned, scholarly, affluent, pious, courageous, and industrious. (Figure No. 1, Line 1)",
+        "1—Generally, the Fate Line originates from the middle portion of the wrist bracelet (manibandha) and extends upward to the Mount of Saturn, specifically to the base of the middle finger. If a person's Fate Line starts from or near the wrist bracelet in a clear, deep, and fully distinct manner, progressing toward the region of the planet Saturn, that individual is fortunate. Although turbulence occurs in the life of every person, an individual possessing such a line overcomes all obstacles in their path and certainly achieves success in life. A clear and distinct line enhances honor, prestige, and good fortune. Such individuals are observed to be renowned, scholarly, wealthy, religious, valiant, industrious, and so forth. (Figure No. 1, Line 1)"
+      ],
+      "rule_ids": [
+        "rule_79_0",
+        "rule_81_0",
+        "rule_81_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_79_0",
+          "obs": "Fate Line originates from the middle of the wrist line and e"
+        },
+        {
+          "id": "rule_81_0",
+          "obs": "Fate Line originates from the middle portion of the wrist br"
+        },
+        {
+          "id": "rule_81_1",
+          "obs": "Fate Line starts from or near the wrist bracelet in a clear,"
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Fate_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        176,
+        180
+      ],
+      "pdf_pages": [
+        83,
+        84
+      ],
+      "passages": [
+        "( 176 ) At the same time, if the Mount of Venus is excessively elevated, and under such conditions, the Fate Line also strives to extend even beyond the base of the middle finger (Saturn), such a person invariably goes to prison. He will be debauched and will be sent to jail on charges of adultery. Further interpretation of his sinful deeds should be made by observing the qualities and flaws of the Head Line, the Heart Line, and the Fate Line. (Figure 2, Location 3)",
+        "Similarly, if the Fate Line extends further downward, cutting across the Rascette (bracelet lines) of the wrist, it is also considered inauspicious. Just as a deep, clear, and distinctly visible Fate Line is a symbol of good fortune, an unclear, dull, and indistinct Fate Line indicates that a person possessing such a line is devoid of vigor, vitality, and strength. His life is spent enduring hard times. (Figure 2, Location 2)",
+        "It is often observed that the Fate Line originates from the *Manibandha* (bracelet/tabula rasa) or its vicinity and, proceeding further, merges into the Life Line after a short distance. In such a scenario, it can be definitively stated regarding an individual possessing this line that the very beginning of their life was marked by domestic complications, and they became so entangled in troubles created by relatives and kinsmen that they never obtained the opportunity to achieve progress. Their advancement comes to a standstill. (Figure 2, Location 2)"
+      ],
+      "rule_ids": [
+        "rule_83_1",
+        "rule_83_2",
+        "rule_83_3",
+        "rule_84_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_83_1",
+          "obs": "Fate Line extends even beyond the base of the middle finger "
+        },
+        {
+          "id": "rule_83_2",
+          "obs": "Fate Line extends further downward, cutting across the Rasce"
+        },
+        {
+          "id": "rule_83_3",
+          "obs": "Fate Line is unclear, dull, and indistinct"
+        },
+        {
+          "id": "rule_84_0",
+          "obs": "The Fate Line originates from the *Manibandha* (bracelet/tab"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Fate_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        176
+      ],
+      "pdf_pages": [
+        83
+      ],
+      "passages": [
+        "2—If the Fate Line originates from the region of the Life Line near the Rascette and proceeds forward in a straight, deep, and clear manner while touching the Life Line, it clearly signifies that such a person elevates his destiny solely through his own hard work and the application of his intellect. His life and his destiny become integrated. All his endeavors lead to his prosperity. While new adversities do arise in the life of every individual, a person with this line overcomes all such calamities by virtue of this line. He attains continuous progress. (Figure No. 3)"
+      ],
+      "rule_ids": [
+        "rule_83_4"
+      ],
+      "rules": [
+        {
+          "id": "rule_83_4",
+          "obs": "Fate Line originates from the region of the Life Line near t"
+        }
+      ],
+      "sub_labels": []
+    },
+    "4": {
+      "crop": "Fate_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        182,
+        184
+      ],
+      "pdf_pages": [
+        86,
+        88
+      ],
+      "passages": [
+        "(182) [Figure No. 4, Line 1-1]",
+        "4. If the Fate Line is in an elevated condition—meaning clear, deep, and distinct—originating from the Mount of Moon and proceeding toward the Mount of Saturn, such individuals certainly strive to progress, yet their thoughts lack stability. Just as the phases of the moon continuously wax and wane, the psychological state of such individuals similarly fluctuates. They alternately become fickle and attempt to attain steadfastness; however, regardless of their efforts, they fail to achieve true success. The sole reason for this is their volatile nature. [Figure No. 4, Line 1-3]",
+        "(184) remains right where it is. For this reason, a break in the Fate Line is considered inauspicious. (Figure 4, Line 2-1, the middle point 1)"
+      ],
+      "rule_ids": [
+        "rule_86_0",
+        "rule_88_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_86_0",
+          "obs": "Fate Line is in an elevated condition—meaning clear, deep, a"
+        },
+        {
+          "id": "rule_88_0",
+          "obs": "a break in the Fate Line"
+        }
+      ],
+      "sub_labels": [
+        "line 1-1",
+        "line 1-3",
+        "line 2-1"
+      ]
+    },
+    "5": {
+      "crop": "Fate_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        184,
+        186
+      ],
+      "pdf_pages": [
+        88,
+        90
+      ],
+      "passages": [
+        "If an island mark is present on the Fate Line of an individual, and the Heart Line is stronger than the Head Line, such a person becomes so entangled in love that they are forced to face social disgrace on account of this attachment. They must endure humiliation, and it is even possible that due to this romantic bond, they may experience profound sorrow and attempt suicide. (Figure 5, Location 1)",
+        "It has also been observed that in the hands of many individuals, right at its point of origin, the Fate Line splits into a snake-tongue shape (forked). In such a condition, this line proves to be detrimental. A person with this type of line possesses an unstable mind. Their consciousness finds no peace, and they continually cause financial losses to their loved ones, including their mother, father, relatives, and kin. (Figure 5)"
+      ],
+      "rule_ids": [
+        "rule_88_0",
+        "rule_90_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_88_0",
+          "obs": "a break in the Fate Line"
+        },
+        {
+          "id": "rule_90_0",
+          "obs": "Fate Line splits into a snake-tongue shape (forked) at its p"
+        }
+      ],
+      "sub_labels": []
+    },
+    "7": {
+      "crop": "Fate_Line_Hand_7.png",
+      "crop_exists": true,
+      "printed_pages": [
+        186,
+        161
+      ],
+      "pdf_pages": [
+        90,
+        95
+      ],
+      "passages": [
+        "If the Fate Line is halted mid-course due to the intersection of the Head Line, leaving no trace of it further ahead, the result is that individuals with this type of line do achieve progress, but their advancement fails to reach its full development. Their own intellect acts as a thorn on their path of progress. Mental flaws such as madness, foolishness, anger, uncertainty of thought, and excessive imagination obstruct their path to advancement. (Figure 7, Location 1)",
+        "After halting for some time, he will resume his progress on the path of advancement and ultimately reach his goal. However, it is also essential to bear in mind that if the line becomes indistinct at the point of the break, and remains faint and unclear even when it restarts, this is not auspicious. Not only will there be obstacles in his progress, but even after overcoming those hurdles, he will fail to attain his objective. (Figure 7)"
+      ],
+      "rule_ids": [
+        "rule_90_1",
+        "rule_95_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_90_1",
+          "obs": "Fate Line is halted mid-course due to the intersection of th"
+        },
+        {
+          "id": "rule_95_0",
+          "obs": "Fate Line becomes indistinct at the point of the break and r"
+        }
+      ],
+      "sub_labels": []
+    },
+    "8": {
+      "crop": "Fate_Line_Hand_8.png",
+      "crop_exists": true,
+      "printed_pages": [
+        112
+      ],
+      "pdf_pages": [
+        92
+      ],
+      "passages": [
+        "successful in enhancing it, and will be able to reap profits accordingly. Such an individual will be proficient in commerce, yet their prosperity will not remain enduring for long. Due to the influence of Venus, they achieve advancement initially, but subsequently, their mind becomes fickle, and their progress turns into decline. [ Figure 8, Branch 2 ]",
+        "If a branch of this nature originates from the Fate Line and merges into the Mount of Saturn, it signifies that a person possessing such a line will attain all-encompassing accomplishments. All obstacles in their path will be destroyed, and they will rise in prosperity. Success will be subservient to them. Furthermore, if the Fate Line itself becomes remarkably clear as it approaches the Mount of Saturn, such an individual possesses the capability to fulfill every desire of their heart. Regardless of how many inauspicious signs may be present in the hand of such a person, success is assured to them. This is the influence of Saturn. [ Figure 8, Branch 3 ]",
+        "If a branch emerging from the Fate Line terminates and merges within the Mount of Sun, an individual with such a line attains fame and renown. Their name remains immortal. They are radiant like the sun, and their reputation grows exponentially day by day due to their public service. They are a lover of poetry, literature, and painting, and shine brightly as a successful artist, poet, leader, or actor. [ Figure 8, Branch 4 ]"
+      ],
+      "rule_ids": [
+        "rule_92_0",
+        "rule_92_1",
+        "rule_92_2"
+      ],
+      "rules": [
+        {
+          "id": "rule_92_0",
+          "obs": "A branch originating from the Fate Line and merging into the"
+        },
+        {
+          "id": "rule_92_1",
+          "obs": "The Fate Line itself becomes remarkably clear as it approach"
+        },
+        {
+          "id": "rule_92_2",
+          "obs": "A branch emerging from the Fate Line terminates and merges w"
+        }
+      ],
+      "sub_labels": []
+    }
+  },
+  "sun_line": {
+    "1": {
+      "crop": "Sun_Line_Hand_1.png",
+      "crop_exists": true,
+      "printed_pages": [
+        160,
+        144
+      ],
+      "pdf_pages": [
+        94,
+        98
+      ],
+      "passages": [
+        "...they become painters, musicians, mathematicians, astrologers, merchants, and so forth. The direct answer to this is that in their hands, the Sun Line originates from the Head Line; consequently, their mental faculties are exceptionally sharp, and through their personal competence—gained as the fruit of their dedicated practice and intellectual power—they attain renown. They continue to progress throughout their lives. (Figure 1, Dotted Line 3)",
+        "4. In the hands of certain individuals, the Sun Line originates from the Heart Line. Such a person possesses an unpretentious and sincere heart. They are incapable of deceit, fraud, and betrayal. Such individuals are generally pure at heart, clearly expressing in their words whatever resides in their minds. Furthermore, regardless of how their past life might have unfolded, their final days in this life remain peaceful and free of obstacles. They have no anxieties to bear in their old age. They spend the remainder of their lives in a tranquil manner. (Figure 1, Dotted Line 4)",
+        "1. In the hands of certain individuals, the Sun Line originates from the Life Line. Such a line guides the person toward the path of progress in the future and enhances their renown. These individuals are worshippers of art, possessing a special interest in natural beauty. Through their own labor and dedication, they become successful artists. The ability to comprehend any matter merely by a hint is inherently present within them. (Figure 1, Dotted Line No. 1)",
+        "2. In the hands of some individuals, the Sun Line originates directly from the Fate Line. Such persons achieve progressive advancement throughout their lives. The primary reason for this is that because the Sun Line arises from the Fate Line itself, it suppresses the flaws of the Fate Line and brings its virtues to light, thereby granting the individual the strength to walk the path of success. When the qualities of the Sun Line combine with the Fate Line, it is akin to adding fragrance to gold (a doubly auspicious circumstance). A clean, clear, and deep Sun Line bestows the fruit of immortal fame. (Figure 1, Dotted Line No. 2)"
+      ],
+      "rule_ids": [
+        "rule_94_0",
+        "rule_94_1",
+        "rule_98_0",
+        "rule_98_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_94_0",
+          "obs": "The Sun Line originates from the Head Line"
+        },
+        {
+          "id": "rule_94_1",
+          "obs": "The Sun Line originates from the Heart Line"
+        },
+        {
+          "id": "rule_98_0",
+          "obs": "The Sun Line originates from the Life Line"
+        },
+        {
+          "id": "rule_98_1",
+          "obs": "The Sun Line originates directly from the Fate Line"
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Sun_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        160
+      ],
+      "pdf_pages": [
+        94
+      ],
+      "passages": [
+        "5. In the hands of certain individuals, the Sun Line originates from the central region of the palm, namely the Mount of Mars, and extends forward. This line comes under the influence of the planetary deity Mars. Mars is the commander-in-chief of the celestial gods; therefore, all the planetary deities of the palm are subdued by his dominance. For this reason, an individual in whose hand the Sun Line emerges from the Mount of Mars succeeds in advancing upon the path of progress. No matter how many obstacles may lie in their path, they march ever onward, overcoming them all. (Figure 2, Dotted Line 5)"
+      ],
+      "rule_ids": [
+        "rule_94_2"
+      ],
+      "rules": [
+        {
+          "id": "rule_94_2",
+          "obs": "The Sun Line originates from the central region of the palm,"
+        }
+      ],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Sun_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        198,
+        146,
+        200
+      ],
+      "pdf_pages": [
+        102,
+        103,
+        104
+      ],
+      "passages": [
+        "(198) definitely creates obstacles. (Figure 3)",
+        "It is frequently observed that scattered minor lines run alongside the Sun Line, eventually merging into it. Such lines exert a direct influence on the Sun Line. The planetary mount from which these lines originate imparts its corresponding influence upon the Sun Line, with the result that the deity of that particular mount assists in the individual's advancement. However, if some of these lines intersect the Sun Line at various points, the consequence is that the individual’s progress is hindered by the influence of the planets from which those lines originate, and diverse obstacles begin to impede their advancement. In such a state, it is proper for the individual bearing such lines to maintain their composure and engage in their work with true dedication and perseverance; success will then lie at their feet. [Figure 3]",
+        "When a branch of the Sun Line extends and merges into the Mount of the Sun, the result is that the individual attains fame and glory. Such a person becomes a political leader, a religious preacher, an orator, or someone deeply interested in public service, achieving success specifically within public life. (Figure 3, Location 1)",
+        "When a branch originating from the Sun Line goes and merges into the domain of the divine preceptor, namely the Mount of Jupiter, the effect is that a person bearing such a line secures a position within the ruling class. By exercising their authority judiciously, they become the recipient of the grace and affection of their subjects, earning honor and renown. Their people love them, and they progress by attaining high authority in governance. (Figure 3, Location 2)",
+        "(200) ...are present, and he attains fame and glory due to his artistic talents. (Figure 3, Site 3)",
+        "When a branch originating from the Sun Line merges into the Mount of Saturn, one’s fortune reaches the pinnacle of success. However, this is conditional upon the presence of a strong Fate Line in the individual’s hand alongside such a mark. Since Saturn is the son of the Sun, the father and son act in tandem to fully assist the individual in becoming happy and prosperous, further extending their renown and glory. (Figure 3, Site 4)"
+      ],
+      "rule_ids": [
+        "rule_102_0",
+        "rule_102_1",
+        "rule_103_0",
+        "rule_103_1",
+        "rule_104_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_102_0",
+          "obs": "scattered minor lines run alongside the Sun Line, eventually"
+        },
+        {
+          "id": "rule_102_1",
+          "obs": "some of these lines intersect the Sun Line at various points"
+        },
+        {
+          "id": "rule_103_0",
+          "obs": "A branch of the Sun Line extends and merges into the Mount o"
+        },
+        {
+          "id": "rule_103_1",
+          "obs": "A branch originating from the Sun Line goes and merges into "
+        },
+        {
+          "id": "rule_104_0",
+          "obs": "a branch originating from the Sun Line merges into the Mount"
+        }
+      ],
+      "sub_labels": []
+    },
+    "4": {
+      "crop": "Sun_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        198,
+        146,
+        200,
+        601
+      ],
+      "pdf_pages": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "passages": [
+        "It is also observed that near its termination, the Sun Line splits into a fork resembling a serpent's tongue. The result of such a line is that the individual's mind becomes fickle and restless, rendering them unable to conduct their endeavors successfully. Temptations and allurements cross their path, causing their concentrated focus to be fractured into multiple directions. The consequence of this division of dedication is that the individual fails to advance upon the path of progress with absolute resolve, resulting either in disrepute or, at best, a complete lack of renown. (Figure 4, Line 1)",
+        "It is possible that a person of humble means may marry someone wealthy, or a wealthy relative may leave them a fortune at the time of death, and so forth. Only after acquiring wealth in this manner can such a person progress on the path of prosperity; this is the distinct characteristic of this line. (Figure 4, Dotted Line 2)",
+        "If the Sun Line is broken at any point, that specific location signifies the individual’s disgrace and infamy. A broken Sun Line is not considered auspicious. Its breakage halts progress, leads to scandal, shifts the direction of the individual’s advancement, and sets them on a path of decline. For all these reasons, a break in the Sun Line is not regarded as a favorable sign. (Figure 4, Line No. 3)",
+        "601) It is virtually non-existent. A broken Sun Line is considered more detrimental than a line containing an Island mark. (Refer to Line No. 1 in Figure 4)."
+      ],
+      "rule_ids": [
+        "rule_102_2",
+        "rule_104_3",
+        "rule_105_0"
+      ],
+      "rules": [
+        {
+          "id": "rule_102_2",
+          "obs": "the Sun Line splits into a fork resembling a serpent's tongu"
+        },
+        {
+          "id": "rule_104_3",
+          "obs": "the Sun Line is broken at any point"
+        },
+        {
+          "id": "rule_105_0",
+          "obs": "A broken Sun Line"
+        }
+      ],
+      "sub_labels": []
+    },
+    "5": {
+      "crop": "Sun_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        601,
+        202
+      ],
+      "pdf_pages": [
+        105,
+        106
+      ],
+      "passages": [
+        "When the Sun Line in an individual's palm originates from the Mount of Mars and, while extending upwards, becomes faint and disappears before reaching or merging into the Mount of the Sun (Apollo), such a person faces various obstacles, adversities, and disappointments in their life. The future of their progress remains shrouded in darkness. (Refer to Line No. 2 in Figure 5).",
+        "If a Square mark is found on the Sun Line, it is considered highly auspicious. The Square mark nullifies the effects of all inauspicious signs present on the Sun Line and, through its own influence, fosters new vitality, enthusiasm, and a sense of duty in the individual's life, inspiring them to tread the path of progress. It further assists in enhancing their fame and reputation. (Refer to Line No. 3 in Figure 5).",
+        "Although the star sign is generally not considered a favorable omen in other contexts, if a star mark appears on the Sun Line, it enhances good fortune and serves to augment fame and glory. This is regarded as an exceptionally auspicious sign on the Sun Line (refer to Figure 5, line no. 3, depicting the star situated on the line)."
+      ],
+      "rule_ids": [
+        "rule_105_1"
+      ],
+      "rules": [
+        {
+          "id": "rule_105_1",
+          "obs": "Sun Line originating from the Mount of Mars and becoming fai"
+        }
+      ],
+      "sub_labels": []
+    },
+    "6": {
+      "crop": "Sun_Line_Hand_6.png",
+      "crop_exists": true,
+      "printed_pages": [
+        202
+      ],
+      "pdf_pages": [
+        107
+      ],
+      "passages": [
+        "In other words, the length of the Sun Line reveals the duration of the influence of one’s progress and fame. If the line is long, it will exert an elevated influence over the individual’s life for a prolonged period; conversely, if the line is short, its effect will be brief. The Sun Line that commences near the wrist (bracelet lines), travels through the middle of the palm, and terminates in the Mount of Apollo (Sun) is considered exceptionally auspicious. If the line originates higher up and remains short, it exerts less influence on the individual's progress. (Figure No. 6)"
+      ],
+      "rule_ids": [
+        "rule_107_1",
+        "rule_107_2",
+        "rule_107_3",
+        "rule_107_4"
+      ],
+      "rules": [
+        {
+          "id": "rule_107_1",
+          "obs": "The length of the Sun Line"
+        },
+        {
+          "id": "rule_107_2",
+          "obs": "The length of the Sun Line"
+        },
+        {
+          "id": "rule_107_3",
+          "obs": "Sun Line commences near the wrist (bracelet lines), travels "
+        },
+        {
+          "id": "rule_107_4",
+          "obs": "Sun Line originates higher up and remains short"
+        }
+      ],
+      "sub_labels": []
+    }
+  },
+  "marriage_line": {
+    "5": {
+      "crop": "Marriage_Line_Hand_5.png",
+      "crop_exists": true,
+      "printed_pages": [
+        207,
+        210
+      ],
+      "pdf_pages": [
+        111,
+        114
+      ],
+      "passages": [
+        "The marriage line is generally the shortest of the primary lines. It originates from the percussion of the palm, located beneath the Mercury finger and above the Heart Line, extending toward the Mount of Jupiter. It is not necessarily the case that there is only one such line on the hand; multiple marriage lines may appear in this area, separated by small intervals. (Refer to the small lines above the Heart Line in Figure No. 5).",
+        "In other words, if the marriage line is broken at any point, it signifies the death of one of the spouses. When the marriage line, while straight and unbroken, curves to touch the Heart Line, it is evident that the couple’s life will be filled with strife and will culminate in widowhood. Widowhood is deemed inevitable, or self-evident, when the marriage line extends to the Mount of Mercury and terminates in a star mark. (Figure No. 5)"
+      ],
+      "rule_ids": [
+        "rule_111_0",
+        "rule_111_1",
+        "rule_111_2",
+        "rule_111_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_111_0",
+          "obs": "The marriage line is generally the shortest of the primary l"
+        },
+        {
+          "id": "rule_111_1",
+          "obs": "The marriage line originates from the percussion of the palm"
+        },
+        {
+          "id": "rule_111_2",
+          "obs": "Multiple marriage lines may appear in this area, separated b"
+        },
+        {
+          "id": "rule_111_3",
+          "obs": "The marriage line is also known as the line of affection."
+        }
+      ],
+      "sub_labels": []
+    },
+    "2": {
+      "crop": "Marriage_Line_Hand_2.png",
+      "crop_exists": true,
+      "printed_pages": [
+        206
+      ],
+      "pdf_pages": [
+        113
+      ],
+      "passages": [
+        "cannot continue. Although death is an inevitable consequence for every living being according to the natural order of the world, under the influence of this line, the individual meets their end before fully experiencing the joys of life. If an island mark appears on the marriage line of an individual’s hand, it exerts a similar impact upon their life. [Figure No. 2]"
+      ],
+      "rule_ids": [],
+      "rules": [],
+      "sub_labels": []
+    },
+    "3": {
+      "crop": "Marriage_Line_Hand_3.png",
+      "crop_exists": true,
+      "printed_pages": [
+        206
+      ],
+      "pdf_pages": [
+        113
+      ],
+      "passages": [
+        "When the marriage line is forked like a serpent's tongue, it signifies the beginning of bitterness in the couple's married life. They become so disgruntled with each other that they prefer to live apart and eventually sever their relationship. One of them, weary of married life, may even contemplate suicide—by drowning in a river, immolating themselves, or consuming poison. However, this extreme course of action occurs only when the individual's heart line and head line touch one another, and the forked branch of the marriage line inclines toward the heart line. [Figure No. 3]"
+      ],
+      "rule_ids": [
+        "rule_113_1",
+        "rule_113_2",
+        "rule_113_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_113_1",
+          "obs": "the marriage line is forked like a serpent's tongue"
+        },
+        {
+          "id": "rule_113_2",
+          "obs": "the marriage line is forked and a faint, erratic line cuts a"
+        },
+        {
+          "id": "rule_113_3",
+          "obs": "a forked marriage line descends downwards"
+        }
+      ],
+      "sub_labels": []
+    },
+    "4": {
+      "crop": "Marriage_Line_Hand_4.png",
+      "crop_exists": true,
+      "printed_pages": [
+        206
+      ],
+      "pdf_pages": [
+        113
+      ],
+      "passages": [
+        "If a person's marriage line is forked and a faint, erratic line cuts across the head line to touch the marriage line, then the life of such an individual is spent in turmoil. The couple will face constant conflict, and domestic life will seem as torturous as hell. A couple possessing such a line will never find harmony; their life together will be filled with strife. [Figure No. 4]"
+      ],
+      "rule_ids": [
+        "rule_113_2",
+        "rule_113_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_113_2",
+          "obs": "the marriage line is forked and a faint, erratic line cuts a"
+        },
+        {
+          "id": "rule_113_3",
+          "obs": "a forked marriage line descends downwards"
+        }
+      ],
+      "sub_labels": []
+    },
+    "6": {
+      "crop": "Marriage_Line_Hand_6.png",
+      "crop_exists": true,
+      "printed_pages": [
+        210
+      ],
+      "pdf_pages": [
+        114
+      ],
+      "passages": [
+        "If a line branches out from the marriage line and connects with the Sun Line (Apollo Line), and if this line is well-formed and clear, then in such a case, the marriage proves to be one that enhances the individual's fortune. A person possessing such a line gains wealth, status, property, and fame through marriage. (Figure No. 6)"
+      ],
+      "rule_ids": [
+        "rule_114_3"
+      ],
+      "rules": [
+        {
+          "id": "rule_114_3",
+          "obs": "A line branches out from the marriage line and connects with"
+        }
+      ],
+      "sub_labels": []
+    }
+  }
+}

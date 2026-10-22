@@ -1,0 +1,9 @@
+( 10 )
+
+People have continued to place their faith in the shastras. During the last World War, it was widely known that Hitler kept an astrologer by his side who advised him on opening new fronts and consulted on the selection of gems. It is also the belief of many that Germany achieved its unexpected victories in the war based on astrology.
+
+Gradually, this science spread to other European countries as well, gaining popularity in nations like France and Russia. In England, this science was disrespected for several centuries; laws were enacted against it, and it was viewed with great contempt. However, ever since Britain came into contact with India, they understood its significance and accepted it as a complete body of knowledge. In modern times, the works of authors such as Craig and Cheiro hold great prominence in the English-speaking world and are considered authoritative.
+
+It is certainly true that compared to other sciences, the science of astrology has had to endure severe hardships, yet it remains alive today and is progressing daily on the path of advancement. Therefore, it is undeniable that this science possesses truth, and it is upon that very truth that it survives. We all know that within the realm of nature, only that knowledge or entity which contains truth can endure permanently. Untruth has no place in nature. Just as gold remains when subjected to fire while the impurities are burned away, so too, having been tempered in the fire of nature, only the truth endures, leaving not even a trace of the false.
+
+Whether one calls it a weakness of the human heart or an inherent curiosity, every

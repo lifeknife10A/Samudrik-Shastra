@@ -1,0 +1,8 @@
+( 137 )
+He is constantly afflicted by ailments such as roundworms, liver disorders, and dropsy. If a person with such a line has wide fingernails bearing red hues intermingled with white spots, he suffers from severe diseases. His health can never remain good. (Refer to lines marked 1-1 in Figure No. 3)
+
+Those individuals whose fingernails are broad and whose Health Line contains island marks at various places are invariably plagued by throat ailments and remain constantly surrounded by diseases of the throat. Furthermore, those people who have long fingernails and possess island marks on their Health Line will be distressed by chest diseases. They will be continually troubled by kidney pain, palpitations of the heart, and similar afflictions. (Refer to lines marked 2-2 in Figure No. 3)
+
+The Health Line remains visible in a person's hand only during childhood and youth; as one advances toward maturity, this line tends to disappear from the hand. The sole reason for this is that when a person steps into maturity, he becomes conscious of his body, and by paying attention to his health, falls ill very infrequently.
+
+The individual in whose hand the Health Line is entirely absent remains perfectly healthy. Those who possess a Health Line that is unblemished are endowed with an extraordinary memory and are also well-versed in worldly conduct. Individuals whose Health Line is long and clear are cheerful in disposition. He will possess good conduct, sharp intellect, and will be a skilled artisan, and should he develop a penchant for commerce,
