@@ -74,7 +74,7 @@
       {
         "rule_id": "rule_88_0",
         "condition": "the Fate Line has a break",
-        "meaning": "the book says that such a person is considered inauspicious, as the break indicates instability and failure to achieve true success",
+        "meaning": "the book says that such a person is considered inauspicious, as the break casts their progress into doubt and their advancement comes to a standstill",
         "status": "from_passage",
         "reason": "",
         "kept_percent": 50
@@ -84,7 +84,7 @@
       {
         "rule_id": "rule_88_0",
         "condition": "the Fate Line has a break",
-        "meaning": "the book says that such a person is considered inauspicious, as the break indicates instability and failure to achieve true success",
+        "meaning": "the book says that such a person is considered inauspicious, as the break casts their progress into doubt and their advancement comes to a standstill",
         "status": "from_passage",
         "reason": "",
         "kept_percent": 50
@@ -355,11 +355,11 @@
     "1": [
       {
         "rule_id": "rule_35_1",
-        "condition": "",
-        "meaning": "",
-        "status": "original",
-        "reason": "keeps only 0% of the passage sentence words",
-        "kept_percent": 0
+        "condition": "the Health Line appears vague and indistinct",
+        "meaning": "the book lists it among the forms the Health Line takes, appearing vague and indistinct in many hands while in some it is deep, long, and clear, and it fades away as a person recovers their health",
+        "status": "from_passage",
+        "reason": "",
+        "kept_percent": 71
       },
       {
         "rule_id": "rule_35_2",

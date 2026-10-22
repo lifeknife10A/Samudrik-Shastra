@@ -3,10 +3,14 @@
 Shows the progress of the running knowledge extraction.
 
 Usage:
-    python3 engine/status.py
+    python3 engine/archive/status.py
 
 Reads the checkpoint file and the log, and estimates the remaining time
 from the progress made since the last time you ran this command.
+
+Archived: the extraction is finished, so this is kept for reference only. It
+still reads the checkpoint from the engine directory and writes its own state
+file next to itself.
 """
 
 import json
@@ -14,7 +18,7 @@ import sys
 import time
 from pathlib import Path
 
-CHECKPOINT = Path(__file__).parent / "knowledge_base.partial.json"
+CHECKPOINT = Path(__file__).parent.parent / "knowledge_base.partial.json"
 LOG_FILE = Path("/tmp/extraction_run.log")
 STATE_FILE = Path(__file__).parent / ".status_state"
 TOTAL_PAGES = 328

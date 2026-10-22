@@ -65,7 +65,8 @@ GRAVE_MEDICAL_WORDS = ("death", "die", "dies", "died", "widow", "widowhood",
                        "blind", "poverty", "ruin", "separation", "divorce",
                        "killed", "accident")
 
-UNVERIFIED_PATH = Path(__file__).parent / "figure_rules_clean.UNVERIFIED.json"
+UNVERIFIED_PATH = (Path(__file__).parent / "archive"
+                   / "figure_rules_clean.UNVERIFIED.json")
 
 # ---------------------------------------------------------------------------
 # Verb detection: a condition must say what the line does.
@@ -496,6 +497,129 @@ def run_revalidation(reader):
 
 NEEDS_REVIEW_PATH = Path(__file__).parent / "needs_review.md"
 
+# The verdicts a person reached by reading the book itself, one per item
+# above. The English page in pages_translated_english/ and the Hindi page in
+# pages_ocr_hindi/ are quoted for the same printed page, and the entry that
+# changed is shown before and after. Regenerating the file keeps this text.
+VERDICTS = """## 3. Verdicts from the book text
+
+### Health line figure 1: "vague and indistinct" vs "deep, long, and clear"
+
+The prediction "must remain cautious" belongs to the **deep, long, and clear**
+line, not to the vague one.
+
+English, printed page 135 (PDF 35):
+
+> Individuals in whose hands the Health Line is completely absent are
+> generally healthy and robust. Those who possess a distinct Health Line
+> experience its influence in the form of ailments gradually taking root in
+> their bodies, and therefore, they must remain cautious.
+
+Hindi, printed page 135 (PDF 35):
+
+> जिन प्राणियों के हाथों में स्वास्थ्य रेखा बिलकुल ही नहीं होती वह निरोग और
+> बलिष्ठ होते हैं। जिनके हाथ में स्पष्ट स्वास्थ्य रेखा होती हैं उसका प्रभाव
+> होता है कि उनके शरीर में धीरे २ रोग घर करने लगा है अतः उन्हें सचेत हो जाना
+> चाहिए।
+
+"स्पष्ट" is the word the English page translates as "distinct", and "सचेत" is
+"cautious", so the caution sentence is about the clear line. The same page
+says what happens to a line that fades:
+
+> Generally speaking, the Health Line serves as a measure of the Life Line and
+> is prone to frequent changes. When a person falls ill, this line becomes
+> deep and ominous, and as the individual gradually recovers their health, the
+> line tends to fade away.
+
+> जब मनुष्य रोग ग्रस्त होता है तो यह गहरी और भयानक होती है और जैसे २ प्राणी
+> निरोग होता जाता है वैसे २ यह गायब होती जाती है।
+
+- **rule_35_2 ("deep, long, and clear")**: the caution prediction is correct,
+  so nothing changed. It prints "such a person must remain cautious".
+- **rule_35_1 ("vague and indistinct")**: the book attaches no caution to this
+  form, so the entry was **changed**. It used to print the caution prediction
+  (which belongs to the other rule); it now prints the page's own words for a
+  faint line.
+  - Before: status `original`, no meaning -> "such a person must remain
+    cautious".
+  - After: status `from_passage`, meaning "the book lists it among the forms
+    the Health Line takes, appearing vague and indistinct in many hands while
+    in some it is deep, long, and clear, and it fades away as a person
+    recovers their health" (kept 71% of the passage sentence's words).
+
+### Fate line rule_88_0: a break in the Fate Line (figures 4 and 5)
+
+English, printed page 183 (PDF 87):
+
+> The individual whose Fate Line is broken finds their progress cast into
+> doubt, for progress does not occur instantaneously. It begins from a humble
+> level, and just when the apex or time of advancement arrives, a halt occurs.
+> In such a state, progress comes to a standstill.
+
+Hindi, printed page 183 (PDF 87):
+
+> जिस प्राणी की भाग्य रेखा टूट जाती है उसकी उन्नति में सन्देह होता है क्योंकि
+> उन्नति एकदम तो होती नहीं। ... जब उन्नति का बिन्दु अथवा समय आता है तो उसमें
+> विराम हो जाता है
+
+English, printed page 184 (PDF 88), the sentence the meaning was checked
+against:
+
+> remains right where it is. For this reason, a break in the Fate Line is
+> considered inauspicious. (Figure 4, Line 2-1, the middle point 1)
+
+Hindi, printed page 184 (PDF 88):
+
+> जहाँ की तहाँ रह जाती है। इस कारण भाग्य रेखा का टूटना अच्छा नहीं होता।
+
+- **Figure 4**: the old meaning ended "the break indicates instability and
+  failure to achieve true success". Those words are not about a break. They
+  come from the Line 1-3 passage on printed page 182, which describes a Fate
+  Line that is "clear, deep, and distinct" and says "their thoughts lack
+  stability" and "they fail to achieve true success". The entry was
+  **changed** to what the break's own two sentences say.
+  - Before: "the book says that such a person is considered inauspicious, as
+    the break indicates instability and failure to achieve true success".
+  - After: "the book says that such a person is considered inauspicious, as
+    the break casts their progress into doubt and their advancement comes to a
+    standstill" (kept 50% of the passage sentence's words).
+- **Figure 5**: figure 5's own paragraph (printed page 184, Figure 5 locations,
+  and printed page 186) is about an island mark and a snake-tongue fork, and
+  the break sentence is labelled "(Figure 4, Line 2-1 ...)". So the break
+  answer does not come from figure 5's text. The copy could not be changed on
+  its own: the reader keeps one cleaned entry per rule id and refuses a file
+  where one id carries two different statuses (tried: it made the reader
+  refuse the whole file, and six more figures lost their text). Both copies
+  now hold the corrected figure 4 answer, which is the page 184 sentence for
+  the rule itself.
+  - **Needs the user:** whether figure 5 should carry this rule at all is a
+    question about `figure_index.json`, which is out of bounds here.
+
+### Health line figure 4, rule_38_2 (`from_passage`)
+
+English, printed page 138 (PDF 38):
+
+> If an individual's Health Line is straight, long, and clear, its results are
+> auspicious.
+
+> The greatest beneficial effect of this Subsidiary Health Line is that if
+> there are any defects or flaws within the Health Line itself, this auxiliary
+> line nullifies those blemishes and yields auspicious results. (Refer to the
+> lines marked 1-1 and 1-2 in Figure No. 4.)
+
+Hindi, printed page 138 (PDF 38):
+
+> यदि किसी प्राणी के हाथ की स्वास्थ्य रेखा सीधी लम्बी और साफ है तो उसका फल
+> शुभ होता है।
+
+> अगर स्वास्थ्य रेखा में कोई अवगुण भी हैं तो उस अवगुण को स्वास्थ्य रेखा की
+> सहायक रेखा नाश कर देती है और शुभ फल देती है।
+
+- **No change.** The meaning uses both sentences of its own figure, and the
+  figure shows both lines it names (1-1 the Health Line, 1-2 the Subsidiary
+  Health Line), so it matches the passage.
+"""
+
 
 def write_needs_review(reader):
     """The entries a human should look at, in one list.
@@ -616,6 +740,10 @@ def write_needs_review(reader):
     for passage in health_entry.get("passages", []):
         lines.append("> %s" % passage)
         lines.append("")
+
+    # The verdicts are written out in VERDICTS above, so they survive a
+    # regeneration of this file.
+    lines.append(VERDICTS)
 
     NEEDS_REVIEW_PATH.write_text("\n".join(lines), encoding="utf-8")
 

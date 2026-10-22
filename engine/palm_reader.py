@@ -542,8 +542,8 @@ class PalmReader:
 
             # Every figure drawn on the sheet is listed, including the ones
             # the book gives no rule text for, so the user sees why a number
-            # is not offered. The count is the sentences the reading would
-            # actually print, filters and drops included.
+            # is not offered. The count is the rules that would print, filters
+            # and drops included.
             numbers = self.figures_on_sheet(line)
             if not numbers:
                 numbers = sorted(int(k) for k in figures)
@@ -556,7 +556,7 @@ class PalmReader:
                     sentences = self.figure_sentences(line, number, status)
                 if sentences:
                     usable.append(str(number))
-                    parts.append("%s (%d sentences)" % (number, len(sentences)))
+                    parts.append("%s (%d rules)" % (number, len(sentences)))
                 else:
                     parts.append("%s (no printable text)" % number)
             print("    figures: %s" % ", ".join(parts))
@@ -1137,9 +1137,9 @@ class PalmReader:
             if not leading and match.start() > 0:
                 leading = " "
             citations = " ".join(CITATION_RE.findall(sentence))
-            if citations:
-                return leading + citations + " " + SELF_HARM_PREDICTION
-            return leading + SELF_HARM_PREDICTION
+            # The tags go at the end here too, so every rewritten sentence
+            # still ends in its citation.
+            return leading + self.with_citations(SELF_HARM_PREDICTION, citations)
 
         cleaned = SENTENCE_RE.sub(replace_sentence, reading)
         return cleaned, replaced
@@ -1174,9 +1174,11 @@ class PalmReader:
 
     def judge_sentence(self, sentence, rule_text_by_number):
         """Returns "kept", "uncited" or "weak" for one sentence."""
-        # Sentences the system wrote are never judged or removed.
-        if SAFE_SENTENCE in sentence or SELF_HARM_PREDICTION in sentence:
-            return "kept"
+        # Sentences the system wrote are never judged or removed. The check
+        # drops the full stop, because the [Rn] tags now sit after it.
+        for written in (SAFE_SENTENCE, SELF_HARM_PREDICTION, MEDICAL_SENTENCE):
+            if written.rstrip(".") in sentence:
+                return "kept"
         numbers = [int(number) for number in re.findall(r"\[R(\d+)\]", sentence)]
         if not numbers:
             return "uncited"
@@ -1256,8 +1258,12 @@ class PalmReader:
             sentence = match.group(0)
             if not self.has_medical_word(sentence):
                 return sentence
-            citations = " ".join(CITATION_RE.findall(sentence))
             lowered = sentence.lower()
+            # "He is free from all diseases" is good news, not a warning, so a
+            # protective phrase leaves the sentence alone.
+            if any(phrase in lowered for phrase in PROTECTIVE_PHRASES):
+                return sentence
+            citations = " ".join(CITATION_RE.findall(sentence))
             certain = (any(marker in lowered for marker in CERTAINTY_MARKERS)
                        or WILL_VERB_RE.search(sentence))
             if certain:
@@ -1506,7 +1512,8 @@ def test_sensitivity_rewrite():
         if expected is not None and rewritten != expected:
             print("        expected: %s" % expected)
 
-    # Self-harm is a separate filter: it fires whatever the hedging.
+    # Self-harm is a separate filter: it fires whatever the hedging, and its
+    # tags go at the end like the other rewrites.
     self_harm_cases = [
         ("The person may commit suicide by jumping into water. [R2]", True),
         ("Such a person may take his own life. [R3]", True),
@@ -1523,17 +1530,20 @@ def test_sensitivity_rewrite():
     for text, should_replace in self_harm_cases:
         cleaned, replaced = reader.suppress_self_harm_sentences(text)
         if should_replace:
-            ok = cleaned != text and SELF_HARM_PREDICTION in cleaned
-            # the citation must survive the rewrite
-            ok = ok and all(tag in cleaned for tag in CITATION_RE.findall(text))
+            ok = cleaned != text and SELF_HARM_PREDICTION.rstrip(".") in cleaned
+            # the citation must survive the rewrite, at the end of the sentence
+            ok = ok and cleaned.rstrip().endswith("[R%s]."
+                                                  % re.findall(r"\[R(\d+)\]",
+                                                               text)[-1])
         else:
             ok = cleaned == text
         all_ok = all_ok and ok
         print("  [%s] %s" % ("PASS" if ok else "FAIL", text))
         print("        replaced=%s -> %s" % (bool(replaced), cleaned))
 
-    # Medical claims: a certain one is rewritten, a plain one is noted, and a
-    # sentence with no medical word at all is left alone.
+    # Medical claims: a certain one is rewritten, a plain one is noted, a
+    # protective phrase is left alone, and a sentence with no medical word at
+    # all is left alone too.
     medical_cases = [
         ("...the couple's life will be filled with strife and will culminate "
          "in widowhood [R23].", "rewritten"),
@@ -1545,6 +1555,9 @@ def test_sensitivity_rewrite():
         ("He will become a famous scholar [R6].", "unchanged"),
         ("...the individual falls prey to severe illnesses [R18].", "noted"),
         ("The person suffers frequent fevers [R7].", "noted"),
+        ("He is free from all diseases [R4].", "unchanged"),
+        ("Such a person enjoys a long life, safe from illness [R8].",
+         "unchanged"),
     ]
     print("\nMedical wording test")
     for text, expectation in medical_cases:

@@ -93,6 +93,29 @@ The engine turns the translated book into a grounded palm reading. It runs
 fully offline (Ollama) and every statement it makes is tied to a printed page
 of the book.
 
+### How to get a reading
+
+1. Run it on a photo of a palm (right hand is the book's convention for a man,
+   left for a woman):
+
+   ```bash
+   python3 engine/palm_reader.py my_palm.jpg --vision --gender male
+   ```
+
+   `--gender female` uses the left hand. Without `--vision` the engine asks you
+   about every line instead of looking at the photo.
+
+2. The engine opens the book's own contact sheet for each line. Compare the
+   line in the photo with the numbered figures and type the closest number. If
+   none of them matches, type `none`. Figures that would print nothing are
+   marked "(no printable text)" and cannot be picked.
+
+3. The reading then prints one short section per line. Every sentence is what
+   the book says about the figure you picked, and ends with `[Rn]` — the rule
+   it came from, with the book page in the run log. Severe wording is framed as
+   the book's view, and the reading ends with a disclaimer: this is a
+   traditional text for cultural interest, not medical or other advice.
+
 ### How it works (figure matcher)
 
 1. **Line presence is optional vision.** With `--vision`, a local vision model
@@ -104,7 +127,7 @@ of the book.
    one.
 2. **The user picks the matching figure.** For each line the engine opens the
    book's own contact sheet and lists every figure drawn on it, with the number
-   of sentences that figure would actually print: "3 (2 sentences)" or
+   of rules that figure would actually print: "3 (2 rules)" or
    "4 (no printable text)". The count comes from the same path the reading
    takes, so it cannot disagree with it, and a figure with no printable text
    cannot be chosen. A scripted run can skip the picker with `--figures`; a
@@ -166,6 +189,9 @@ python3 engine/clean_figure_rules.py
 # List the entries a human should check by hand (needs_review.md)
 python3 engine/clean_figure_rules.py --needs-review
 
+# Re-run every check on the engine (fast, offline, no photo needed)
+python3 engine/run_checks.py
+
 # Vision presence benchmark over the book's hand figures
 python3 engine/test_vision_hands.py --all
 ```
@@ -180,12 +206,14 @@ python3 engine/test_vision_hands.py --all
 | `engine/chroma_db/` | Vector store used to search rules by meaning |
 | `engine/figure_index.json` | 46 book figures with passages and linked rules |
 | `engine/figure_rules_clean.json` | Cleaned condition / meaning pairs, used by the template reading |
-| `engine/figure_rules_clean.UNVERIFIED.json` | The clean-up before re-validation (kept for comparison) |
 | `engine/figure_rules_review.md` | Original vs cleaned rules, side by side, for checking |
-| `engine/needs_review.md` | The entries a check cannot settle, listed for a human |
+| `engine/needs_review.md` | The entries a check cannot settle, with the verdict from the book text |
 | `engine/palm_reader.py` | The reader (figure-matcher pipeline, optional vision) |
+| `engine/run_checks.py` | Re-runs every check and prints PASS/FAIL per item |
 | `engine/backfill_figure_rules.py` | Fills figures whose paragraph gave no rule |
 | `engine/clean_figure_rules.py` | One-time clean-up of the figure rules into readable pairs |
+| `engine/archive/` | Finished with: `status.py`, its state file, the pre-revalidation clean-up, `palm_reader_v1.py` |
+| `engine/test_photos/` | Two sample palm photos, kept out of git |
 
 `figure_index.json` and the reader must agree on rule IDs (`rule_<page>_<index>`).
 Both enumerate each page's rules in knowledge-base order, so rebuild the index
